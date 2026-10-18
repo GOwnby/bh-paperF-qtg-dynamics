@@ -1,3 +1,7 @@
+# The Mass-Tracking Closure in Four-Dimensional Quasi-Topological Gravity: Double-Null Equations, an Exact Generalized-Mass Law and Evolution from Event-Horizon-Regular Data
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23455596.svg)](https://doi.org/10.5281/zenodo.23455596)
+
 # Paper F — The mass-tracking closure in four-dimensional quasi-topological gravity
 
 Drafted 2026-10-10, revised 2026-10-11 (event-horizon-regular data, constrained evolution, Hayward and bounded results). `main.tex` / `main.pdf` (37 pp); `references.bib`; `fig_qtg.pdf|png` (interior-data figure), `fig_eh.pdf|png` (event-horizon-regular runs).
