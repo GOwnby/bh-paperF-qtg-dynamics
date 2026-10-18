@@ -1,0 +1,5 @@
+change relative to the reference (K, r: relative; sigma_v: absolute)
+v1=1500     v=100: dK/K=0.0e+00 dr/r=0.0e+00 dsv=0.0e+00  v=300: dK/K=0.0e+00 dr/r=0.0e+00 dsv=2.0e-13  v=650: dK/K=6.1e-09 dr/r=0.0e+00 dsv=5.0e-14  v=1000: dK/K=3.8e-07 dr/r=0.0e+00 dsv=3.5e-10  v=1100: dK/K=2.9e-06 dr/r=0.0e+00 dsv=4.8e-08
+hv/2        v=100: dK/K=2.7e-05 dr/r=3.3e-07 dsv=4.9e-07  v=300: dK/K=2.3e-05 dr/r=3.3e-07 dsv=5.2e-07  v=650: dK/K=2.2e-05 dr/r=3.3e-07 dsv=5.2e-07  v=1000: dK/K=2.1e-05 dr/r=3.3e-07 dsv=5.3e-07  v=1100: dK/K=2.1e-05 dr/r=3.3e-07 dsv=5.3e-07
+hs/2        v=100: dK/K=5.0e-04 dr/r=3.9e-06 dsv=1.6e-07  v=300: dK/K=3.5e-04 dr/r=3.9e-06 dsv=4.6e-09  v=650: dK/K=3.3e-04 dr/r=3.9e-06 dsv=4.1e-10  v=1000: dK/K=3.3e-04 dr/r=3.9e-06 dsv=2.2e-10  v=1100: dK/K=3.2e-04 dr/r=3.9e-06 dsv=4.5e-08
+long double v=100: dK/K=0.0e+00 dr/r=0.0e+00 dsv=1.0e-13  v=300: dK/K=0.0e+00 dr/r=0.0e+00 dsv=1.0e-13  v=650: dK/K=1.8e-07 dr/r=0.0e+00 dsv=2.0e-14  v=1000: dK/K=4.2e-07 dr/r=0.0e+00 dsv=5.0e-13  v=1100: dK/K=2.8e-07 dr/r=0.0e+00 dsv=5.9e-13

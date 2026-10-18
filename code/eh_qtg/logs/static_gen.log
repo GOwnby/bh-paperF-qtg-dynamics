@@ -1,0 +1,8 @@
+Hayward: r- 1.057474507278 vs 1.057474507278, r+ 9.897926849310 vs 9.897926849310, kp 0.048968742119 vs 0.048968742119, km 0.795649274
+ U=0 v=0 max rel diff 8.79e-16
+ U=1e-09 v=20 max rel diff 5.94e-15
+ U=0.3 v=20 max rel diff 1.58e-14
+ U=1 v=0 max rel diff 4.83e-14
+ U=0.6 v=50 max rel diff 5.61e-13
+ U=1.2 v=98 max rel diff 5.82e-13
+bounded m=5 alpha=1: r- 1.0025285624 r+ 9.9994998875 kappa+ 0.04998750 kappa- 0.98243989

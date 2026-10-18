@@ -1,0 +1,27 @@
+closed form z m -> r_-^3/2 = 0.59126
+collapseE_profile_hv0.1.json     ray 0 U=0.299 front v= 53  v=1100: v*sV=-8.237 K=6.339e+30 slope=9.769 m=4323.7 dm/dv=4.4008 zm=0.59117
+collapseE_profile_hv0.1.json     ray 0 U=0.299 front v= 53  v=1400: v*sV=-8.190 K=6.735e+31 slope=9.830 m=5646.2 dm/dv=4.4175 zm=0.59119
+collapseE_profile_hv0.1.json     ray 1 U=0.599 front v= 78  v=1100: v*sV=-8.237 K=1.168e+31 slope=9.862 m=4384.3 dm/dv=4.4016 zm=0.59117
+collapseE_profile_hv0.1.json     ray 1 U=0.599 front v= 78  v=1400: v*sV=-8.190 K=1.265e+32 slope=9.899 m=5706.9 dm/dv=4.4143 zm=0.59119
+collapseE_profile_hv0.1.json     ray 2 U=0.997 front v= 70  v=1100: v*sV=-8.237 K=1.187e+32 slope=9.914 m=4419.6 dm/dv=4.4030 zm=0.59118
+collapseE_profile_hv0.1.json     ray 2 U=0.997 front v= 70  v=1400: v*sV=-8.190 K=1.300e+33 slope=9.938 m=5742.2 dm/dv=4.4101 zm=0.59120
+collapseE_profile_hv0.1.json     ray 3 U=1.201 front v= 68  v=1100: v*sV=-8.237 K=7.527e+34 slope=9.926 m=4427.7 dm/dv=4.4058 zm=0.59119
+collapseE_profile_hv0.1.json     ray 3 U=1.201 front v= 68  v=1400: v*sV=-8.190 K=8.263e+35 slope=9.947 m=5750.5 dm/dv=4.4176 zm=0.59120
+collapseE_profile_hv0.2.json     ray 0 U=0.299 front v= 53  v=1100: v*sV=-8.246 K=6.339e+30 slope=9.769 m=4323.8 dm/dv=4.4015 zm=0.59116
+collapseE_profile_hv0.2.json     ray 0 U=0.299 front v= 53  v=1400: v*sV=-8.202 K=6.735e+31 slope=9.830 m=5646.4 dm/dv=4.4090 zm=0.59118
+collapseE_profile_hv0.2.json     ray 1 U=0.599 front v= 78  v=1100: v*sV=-8.246 K=1.168e+31 slope=9.862 m=4384.4 dm/dv=4.4024 zm=0.59116
+collapseE_profile_hv0.2.json     ray 1 U=0.599 front v= 78  v=1400: v*sV=-8.202 K=1.265e+32 slope=9.899 m=5707.0 dm/dv=4.4169 zm=0.59118
+collapseE_profile_hv0.2.json     ray 2 U=0.997 front v= 70  v=1100: v*sV=-8.246 K=1.187e+32 slope=9.915 m=4419.7 dm/dv=4.4035 zm=0.59117
+collapseE_profile_hv0.2.json     ray 2 U=0.997 front v= 70  v=1400: v*sV=-8.202 K=1.300e+33 slope=9.939 m=5742.4 dm/dv=4.4128 zm=0.59119
+collapseE_profile_hv0.2.json     ray 3 U=1.201 front v= 68  v=1100: v*sV=-8.246 K=7.527e+34 slope=9.926 m=4427.8 dm/dv=4.4029 zm=0.59118
+collapseE_profile_hv0.2.json     ray 3 U=1.201 front v= 68  v=1400: v*sV=-8.202 K=8.263e+35 slope=9.947 m=5750.7 dm/dv=4.4144 zm=0.59120
+collapseE_zeroPU0_hv0.2.json     ray 0 U=0.299 front v= 53  v=1100: v*sV=-8.246 K=2.399e+30 slope=9.773 m=4326.7 dm/dv=4.4007 zm=0.59116
+collapseE_zeroPU0_hv0.2.json     ray 0 U=0.299 front v= 53  v=1400: v*sV=-8.202 K=2.551e+31 slope=9.832 m=5649.3 dm/dv=4.4138 zm=0.59118
+collapseE_zeroPU0_hv0.2.json     ray 1 U=0.599 front v= 76  v=1100: v*sV=-8.246 K=1.400e+30 slope=9.872 m=4390.9 dm/dv=4.4014 zm=0.59115
+collapseE_zeroPU0_hv0.2.json     ray 1 U=0.599 front v= 76  v=1400: v*sV=-8.202 K=1.520e+31 slope=9.906 m=5713.5 dm/dv=4.4157 zm=0.59117
+collapseE_zeroPU0_hv0.2.json     ray 2 U=0.997 front v= 65  v=1100: v*sV=-8.246 K=1.200e+30 slope=9.941 m=4437.3 dm/dv=4.4041 zm=0.59115
+collapseE_zeroPU0_hv0.2.json     ray 2 U=0.997 front v= 65  v=1400: v*sV=-8.202 K=1.321e+31 slope=9.959 m=5760.0 dm/dv=4.4159 zm=0.59117
+collapseE_zeroPU0_hv0.2.json     ray 3 U=1.201 front v= 61  v=1100: v*sV=-8.246 K=1.208e+30 slope=9.966 m=4454.0 dm/dv=4.4019 zm=0.59115
+collapseE_zeroPU0_hv0.2.json     ray 3 U=1.201 front v= 61  v=1400: v*sV=-8.202 K=1.337e+31 slope=9.977 m=5776.7 dm/dv=4.4122 zm=0.59117
+prescribed B=3e-3 k=3 U=0.9968: front v=73 v=1100: v*sV=-8.081 K=1.294e+47 slope=9.469 m=4328.6 dm/dv=4.4023 zm=0.59117
+row-profile sensitivity (U=0.9968, v=1200): K ratio 98.716, Ps ratio per ray: ['0.761', '0.529', '0.130', '-0.131']

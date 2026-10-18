@@ -1,0 +1,8 @@
+﻿cff-version: 1.2.0
+message: "If you use this software or manuscript, please cite it as below."
+authors:
+  - family-names: "Ownby"
+    given-names: "Gracen"
+title: "The Mass-Tracking Closure in Four-Dimensional Quasi-Topological Gravity: Double-Null Equations, an Exact Generalized-Mass Law and Evolution from Event-Horizon-Regular Data"
+version: "v1.0.0"
+date-released: "2026-10-18"

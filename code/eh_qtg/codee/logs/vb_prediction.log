@@ -1,0 +1,25 @@
+1D RK4 error at the measured blow-up of code B (B=3e-3):
+  hv=0.2     v_b=252  |err|=0.0620
+  hv=0.1     v_b=307  |err|=0.0608
+  hv=0.05    v_b=364  |err|=0.0629
+  hv=0.025   v_b=420  |err|=0.0613
+  hv=0.0125  v_b=477  |err|=0.0625
+delta* = 0.0619 +- 0.0008
+B=0.003  predicted v_b (first v with |err|>delta*) vs measured:
+  hv=0.2     predicted  252.0   measured 252
+  hv=0.1     predicted  307.4   measured 307
+  hv=0.05    predicted  363.7   measured 364
+  hv=0.025   predicted  420.2   measured 420
+  hv=0.0125  predicted  476.8   measured 477
+B=0.03  predicted v_b (first v with |err|>delta*) vs measured:
+  hv=0.2     predicted  158.4   measured 158
+  hv=0.1     predicted  213.9   measured 214
+  hv=0.05    predicted  270.3   measured 270
+  hv=0.025   predicted  326.9   measured -
+  hv=0.0125  predicted  383.6   measured -
+B=0.0003  predicted v_b (first v with |err|>delta*) vs measured:
+  hv=0.2     predicted  346.2   measured 346
+  hv=0.1     predicted  401.5   measured -
+  hv=0.05    predicted  457.8   measured -
+  hv=0.025   predicted  514.2   measured -
+  hv=0.0125  predicted  570.8   measured -

@@ -1,0 +1,15 @@
+B=0.0003: advanced-time width of the rise of sigma_v from -0.72 to -0.19
+ U=0.300  v(-0.72)=None  v(-0.19)=None  width=n/a
+ U=0.600  v(-0.72)=93.4  v(-0.19)=100.5  width=7.2
+ U=1.000  v(-0.72)=79.7  v(-0.19)=87.0  width=7.2
+ U=1.200  v(-0.72)=74.8  v(-0.19)=82.1  width=7.3
+B=0.003: advanced-time width of the rise of sigma_v from -0.72 to -0.19
+ U=0.300  v(-0.72)=98.4  v(-0.19)=105.6  width=7.2
+ U=0.600  v(-0.72)=80.2  v(-0.19)=87.5  width=7.3
+ U=1.000  v(-0.72)=66.5  v(-0.19)=73.9  width=7.4
+ U=1.200  v(-0.72)=61.6  v(-0.19)=69.0  width=7.4
+B=0.03: advanced-time width of the rise of sigma_v from -0.72 to -0.19
+ U=0.300  v(-0.72)=85.5  v(-0.19)=92.7  width=7.2
+ U=0.600  v(-0.72)=67.2  v(-0.19)=74.6  width=7.4
+ U=1.000  v(-0.72)=53.4  v(-0.19)=60.9  width=7.5
+ U=1.200  v(-0.72)=48.4  v(-0.19)=56.0  width=7.6

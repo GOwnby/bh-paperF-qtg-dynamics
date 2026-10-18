@@ -1,0 +1,5 @@
+P=0.01  crude dm=0.038  r_f=9.9456 -> m_f=5.0236 (r_-=1.05716) | r_inf=1.05711 -> m*=5.0277 | ray mass at freeze m=5.0294 (r_-=1.05709) | v_freeze=42.0
+P=0.03  crude dm=0.342  r_f=10.3542 -> m_f=5.2258 (r_-=1.05462) | r_inf=1.05436 -> m*=5.2481 | ray mass at freeze m=5.2597 (r_-=1.05422) | v_freeze=45.0
+P=0.05  crude dm=0.949  r_f=11.3570 -> m_f=5.7229 (r_-=1.04925) | r_inf=1.04903 -> m*=5.7455 | ray mass at freeze m=5.7524 (r_-=1.04896) | v_freeze=50.0
+P=0.07  crude dm=1.861  r_f=13.7233 -> m_f=6.8983 (r_-=1.03996) | r_inf=1.03985 -> m*=6.9153 | ray mass at freeze m=6.9155 (r_-=1.03985) | v_freeze=64.0
+P=0.08  crude dm=2.430  r_f=16.5965 -> m_f=8.3285 (r_-=1.03251) | r_inf=1.03223 -> m*=8.3960 | ray mass at freeze m=8.3960 (r_-=1.03223) | v_freeze=84.0

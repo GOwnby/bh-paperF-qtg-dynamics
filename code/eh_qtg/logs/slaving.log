@@ -1,0 +1,13 @@
+B=0.003 hs=0.05 hv=0.003125 v1=200  kappa_+=0.04896874
+--- v=100: front at x_f ~ 44 (sigma_v=-0.4); plateau sigma_v(x=25)=-0.79515 z_II=0.10530 ; behind: G=sigma_v(x=3000)=-0.09327 z=4.039e-03
+    u-independence (max-min)/mean: phi_v over 10<=x<=2e4: 3.06e-06 ; rho over 40<=x<=2e4 (x>=x_f only: 5.16e-05) ; sigma_v over x>=2 x_f: 4.69e-02
+    y*rho/beta behind the front = 1.000000 ; plateau balance S/((kappa+G) rho) = 1.00029 (-> 1 if rho_v = -kappa rho + S and rho_v/rho = G)
+    dm/dv: closed form 2 r beta (kappa+G)/c1_II = 3.7873 ; direct 8 pi r^2 y phi_v^2 = 3.7929
+--- v=150: front at x_f ~ 72 (sigma_v=-0.4); plateau sigma_v(x=25)=-0.79504 z_II=0.10528 ; behind: G=sigma_v(x=3000)=-0.07466 z=1.735e-03
+    u-independence (max-min)/mean: phi_v over 10<=x<=2e4: 2.89e-06 ; rho over 40<=x<=2e4 (x>=x_f only: 2.04e-04) ; sigma_v over x>=2 x_f: 7.43e-02
+    y*rho/beta behind the front = 1.000000 ; plateau balance S/((kappa+G) rho) = 0.92677 (-> 1 if rho_v = -kappa rho + S and rho_v/rho = G)
+    dm/dv: closed form 2 r beta (kappa+G)/c1_II = 3.9771 ; direct 8 pi r^2 y phi_v^2 = 3.9767
+--- v=190: front at x_f ~ 100 (sigma_v=-0.4); plateau sigma_v(x=25)=-0.79391 z_II=0.10512 ; behind: G=sigma_v(x=3000)=-0.05010 z=1.806e-03
+    u-independence (max-min)/mean: phi_v over 10<=x<=2e4: 2.76e-06 ; rho over 40<=x<=2e4 (x>=x_f only: 1.56e-03) ; sigma_v over x>=2 x_f: 1.21e-01
+    y*rho/beta behind the front = 1.000000 ; plateau balance S/((kappa+G) rho) = 0.50348 (-> 1 if rho_v = -kappa rho + S and rho_v/rho = G)
+    dm/dv: closed form 2 r beta (kappa+G)/c1_II = 4.1160 ; direct 8 pi r^2 y phi_v^2 = 4.1044

@@ -1,0 +1,37 @@
+model 1 L2=1 B=0.03 k=1.5; grids [0.05, 0.025, 0.0125, 0.00625]
+--- ray U=0.300   (columns: v, r, 1-psi (or wall gap), m, sigma_v, y, phi_v, g, Sigma, K, rel.diff(Sigma) top2 levels)
+   60 1.060888 1.065e-01 5.0102e+00 -0.79652 5.001e-01 -1.269e-03 4.052e-04 6.412e-02 1.228e+01 9.0e-06
+   80 1.057338 1.054e-01 5.0176e+00 -0.79426 7.859e+02 -4.787e-04 1.260e+03 2.347e+06 8.812e+13 3.0e-04
+  100 1.057337 1.585e-02 3.6694e+01 -0.10786 3.395e+06 -1.874e-04 2.133e+06 2.289e+10 8.386e+21 4.1e-03
+  120 nan nan nan +nan nan +nan nan nan nan nan
+  140 nan nan nan +nan nan +nan nan nan nan nan
+  160 nan nan nan +nan nan +nan nan nan nan nan
+  180 nan nan nan +nan nan +nan nan nan nan nan
+  198 nan nan nan +nan nan +nan nan nan nan nan
+--- ray U=0.600   (columns: v, r, 1-psi (or wall gap), m, sigma_v, y, phi_v, g, Sigma, K, rel.diff(Sigma) top2 levels)
+   60 1.057323 1.054e-01 5.0141e+00 -0.79549 3.578e+01 -1.280e-03 7.092e+01 7.430e+03 8.833e+08 1.3e-05
+   80 1.057320 1.873e-02 3.0966e+01 -0.11821 5.009e+05 -4.787e-04 3.767e+05 1.177e+09 2.218e+19 4.5e-04
+  100 1.057319 5.751e-03 1.0218e+02 -0.09406 3.778e+06 -1.874e-04 1.112e+06 2.973e+08 1.415e+18 1.0e-01
+  120 nan nan nan +nan nan +nan nan nan nan nan
+  140 nan nan nan +nan nan +nan nan nan nan nan
+  160 nan nan nan +nan nan +nan nan nan nan nan
+  180 nan nan nan +nan nan +nan nan nan nan nan
+  198 nan nan nan +nan nan +nan nan nan nan nan
+--- ray U=0.999   (columns: v, r, 1-psi (or wall gap), m, sigma_v, y, phi_v, g, Sigma, K, rel.diff(Sigma) top2 levels)
+   60 1.057272 4.369e-02 1.2934e+01 -0.22116 4.952e+04 -1.280e-03 5.392e+04 3.063e+08 1.501e+18 4.2e-05
+   80 1.057269 7.463e-03 7.8594e+01 -0.09965 5.660e+05 -4.787e-04 2.305e+05 2.790e+07 1.246e+16 5.1e-04
+  100 1.057268 3.842e-03 1.5322e+02 -0.09290 3.850e+06 -1.874e-04 6.141e+05 2.702e+07 1.168e+16 1.9e-01
+  120 nan nan nan +nan nan +nan nan nan nan nan
+  140 nan nan nan +nan nan +nan nan nan nan nan
+  160 nan nan nan +nan nan +nan nan nan nan nan
+  180 nan nan nan +nan nan +nan nan nan nan nan
+  198 nan nan nan +nan nan +nan nan nan nan nan
+--- ray U=1.200   (columns: v, r, 1-psi (or wall gap), m, sigma_v, y, phi_v, g, Sigma, K, rel.diff(Sigma) top2 levels)
+   60 1.057230 2.157e-02 2.6802e+01 -0.13094 6.727e+04 -1.280e-03 5.754e+04 4.198e+07 2.819e+16 2.4e-05
+   80 1.057227 6.061e-03 9.6893e+01 -0.09846 5.740e+05 -4.787e-04 1.837e+05 9.491e+06 1.441e+15 8.3e-04
+  100 1.057226 3.422e-03 1.7206e+02 -0.09271 3.866e+06 -1.875e-04 4.844e+05 1.188e+07 2.259e+15 2.2e-01
+  120 nan nan nan +nan nan +nan nan nan nan nan
+  140 nan nan nan +nan nan +nan nan nan nan nan
+  160 nan nan nan +nan nan +nan nan nan nan nan
+  180 nan nan nan +nan nan +nan nan nan nan nan
+  198 nan nan nan +nan nan +nan nan nan nan nan

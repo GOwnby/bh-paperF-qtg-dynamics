@@ -1,0 +1,192 @@
+\begin{thebibliography}{31}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Angelopoulos et~al.(2018)Angelopoulos, Aretakis, and
+  Gajic]{AngelopoulosAretakisGajic2018}
+Yannis Angelopoulos, Stefanos Aretakis, and Dejan Gajic.
+\newblock Late-time asymptotics for the wave equation on spherically symmetric,
+  stationary spacetimes.
+\newblock \emph{Adv. Math.}, 323:\penalty0 529, 2018.
+
+\bibitem[Bizo{\'n} et~al.(2008)Bizo{\'n}, Chmaj, and
+  Rostworowski]{BizonChmajRostworowski2008}
+Piotr Bizo{\'n}, Tadeusz Chmaj, and Andrzej Rostworowski.
+\newblock Late-time tails of a self-gravitating massless scalar field,
+  revisited, 2008.
+
+\bibitem[Bonanno et~al.(2025)Bonanno, Panassiti, and
+  Saueressig]{BonannoPanassitiSaueressig2025}
+Alfio Bonanno, Antonio Panassiti, and Frank Saueressig.
+\newblock Cauchy horizon (in)stability of regular black holes.
+\newblock \emph{arXiv:2507.03581 [gr-qc]}, 2025.
+
+\bibitem[Borissova and Carballo-Rubio(2026)]{BorissovaCarballoRubio2026}
+Johanna Borissova and Ra\'ul Carballo-Rubio.
+\newblock Regular black holes from pure gravity in four dimensions.
+\newblock \emph{arXiv:2602.16773 [gr-qc]}, 2026.
+
+\bibitem[Brady and Smith(1995)]{BradySmith1995}
+Patrick~R. Brady and John~D. Smith.
+\newblock Black hole singularities: A numerical approach.
+\newblock \emph{Physical Review Letters}, 75:\penalty0 1256, 1995.
+
+\bibitem[Bueno et~al.(2024{\natexlab{a}})Bueno, Cano, and
+  Hennigar]{BuenoCanoHennigar2024}
+Pablo Bueno, Pablo~A. Cano, and Robie~A. Hennigar.
+\newblock Regular black holes from pure gravity.
+\newblock \emph{arXiv:2403.04827 [gr-qc]}, 2024{\natexlab{a}}.
+
+\bibitem[Bueno et~al.(2024{\natexlab{b}})Bueno, Cano, Hennigar, and
+  Murcia]{BuenoCanoHennigarMurcia2024}
+Pablo Bueno, Pablo~A. Cano, Robie~A. Hennigar, and \'Angel~J. Murcia.
+\newblock Dynamical formation of regular black holes.
+\newblock \emph{arXiv:2412.02742 [gr-qc]}, 2024{\natexlab{b}}.
+
+\bibitem[Bueno et~al.(2025)Bueno, Cano, Hennigar, and
+  Murcia]{BuenoCanoHennigarMurcia2025}
+Pablo Bueno, Pablo~A. Cano, Robie~A. Hennigar, and \'Angel~J. Murcia.
+\newblock Regular black hole formation in four-dimensional non-polynomial
+  gravities.
+\newblock \emph{arXiv:2509.19016 [gr-qc]}, 2025.
+
+\bibitem[Bueno et~al.(2026)Bueno, Hennigar, Murcia, and
+  Vicente-Cano]{BuenoHennigarMurciaVicenteCano2026}
+Pablo Bueno, Robie~A. Hennigar, \'Angel~J. Murcia, and Aitor Vicente-Cano.
+\newblock Regular geometries from singular matter in quasi-topological gravity.
+\newblock \emph{arXiv:2603.10110 [gr-qc]}, 2026.
+
+\bibitem[Burko(1997)]{Burko1997}
+Lior~M. Burko.
+\newblock Structure of the black hole's cauchy-horizon singularity.
+\newblock \emph{Physical Review Letters}, 79:\penalty0 4958, 1997.
+
+\bibitem[Burko and Ori(1997)]{BurkoOri1997b}
+Lior~M. Burko and Amos Ori.
+\newblock Late-time evolution of nonlinear gravitational collapse.
+\newblock \emph{Phys. Rev. D}, 56:\penalty0 7820, 1997.
+
+\bibitem[Carballo-Rubio et~al.(2022)Carballo-Rubio, Di~Filippo, Liberati,
+  Pacilio, and Visser]{CarballoRubio2022a}
+Ra\'ul Carballo-Rubio, Francesco Di~Filippo, Stefano Liberati, Costantino
+  Pacilio, and Matt Visser.
+\newblock Regular black holes without mass inflation instability.
+\newblock \emph{J. High Energy Phys.}, 09:\penalty0 118, 2022.
+
+\bibitem[Dafermos(2005)]{Dafermos2005}
+Mihalis Dafermos.
+\newblock The interior of charged black holes and the problem of uniqueness in
+  general relativity.
+\newblock \emph{Communications on Pure and Applied Mathematics}, 58:\penalty0
+  445, 2005.
+
+\bibitem[Di~Filippo et~al.(2026)Di~Filippo, Kubiz\v{n}\'ak, and
+  Srinivasan]{DiFilippo2026}
+Francesco Di~Filippo, David Kubiz\v{n}\'ak, and Aditya Srinivasan.
+\newblock Mass inflation and thin shells in quasi-topological gravity.
+\newblock \emph{arXiv:2604.27980 [gr-qc]}, 2026.
+
+\bibitem[Diener(2003)]{Diener2003}
+Peter Diener.
+\newblock A new general purpose event horizon finder for 3d numerical
+  spacetimes.
+\newblock \emph{Class. Quantum Grav.}, 20:\penalty0 4901, 2003.
+
+\bibitem[Frolov and Zelnikov(2026)]{FrolovZelnikov2026}
+Valeri~P. Frolov and Andrei Zelnikov.
+\newblock Regular black holes in quasitopological gravity: Null shells and mass
+  inflation, 2026.
+\newblock arXiv:2601.01861 (v2, April 2026).
+
+\bibitem[Gajic and Kehrberger(2025)]{GajicKehrberger2025}
+Dejan Gajic and Leonhard Kehrberger.
+\newblock Linear and nonlinear late-time tails on dynamical black hole
+  spacetimes via time integrals, 2025.
+
+\bibitem[Gautam(2024)]{Gautam2024}
+Onyx Gautam.
+\newblock Late-time tails and mass inflation for the spherically symmetric
+  {E}instein--{M}axwell--scalar field system, 2024.
+
+\bibitem[Gundlach et~al.(1994{\natexlab{a}})Gundlach, Price, and
+  Pullin]{GundlachPricePullin1994}
+Carsten Gundlach, Richard~H. Price, and Jorge Pullin.
+\newblock Late-time behavior of stellar collapse and explosions. i. linearized
+  perturbations.
+\newblock \emph{Phys. Rev. D}, 49:\penalty0 883, 1994{\natexlab{a}}.
+
+\bibitem[Gundlach et~al.(1994{\natexlab{b}})Gundlach, Price, and
+  Pullin]{GundlachPricePullin1994b}
+Carsten Gundlach, Richard~H. Price, and Jorge Pullin.
+\newblock Late-time behavior of stellar collapse and explosions. ii. nonlinear
+  evolution.
+\newblock \emph{Phys. Rev. D}, 49:\penalty0 890, 1994{\natexlab{b}}.
+
+\bibitem[Hod and Piran(1998)]{HodPiran1998}
+Shahar Hod and Tsvi Piran.
+\newblock Mass inflation in dynamical gravitational collapse of a charged
+  scalar field.
+\newblock \emph{Physical Review Letters}, 81:\penalty0 1554, 1998.
+
+\bibitem[Iofa(2022)]{Iofa2022}
+Mikhail~Z. Iofa.
+\newblock On the mass function at the inner horizon of a regular black hole.
+\newblock \emph{arXiv:2206.09460 [gr-qc]}, 2022.
+
+\bibitem[Karkowski et~al.(2004)Karkowski, {\'S}wierczy{\'n}ski, and
+  Malec]{KarkowskiSwierczynskiMalec2004}
+Janusz Karkowski, Zdzis{\l}aw {\'S}wierczy{\'n}ski, and Edward Malec.
+\newblock Comments on tails in {S}chwarzschild spacetimes.
+\newblock \emph{Class. Quantum Grav.}, 21:\penalty0 1303, 2004.
+
+\bibitem[Libson et~al.(1996)Libson, Mass\'o, Seidel, Suen, and
+  Walker]{Libson1996}
+Joseph Libson, Joan Mass\'o, Edward Seidel, Wai-Mo Suen, and Paul Walker.
+\newblock Event horizons in numerical relativity: Methods and tests.
+\newblock \emph{Phys. Rev. D}, 53:\penalty0 4335, 1996.
+
+\bibitem[Marolf and Ori(2012)]{MarolfOri2012}
+Donald Marolf and Amos Ori.
+\newblock Outgoing gravitational shock-wave at the inner horizon: The late-time
+  limit of black hole interiors.
+\newblock \emph{Physical Review D}, 86:\penalty0 124026, 2012.
+
+\bibitem[Ori(1991)]{Ori1991}
+Amos Ori.
+\newblock Inner structure of a charged black hole: An exact mass-inflation
+  solution.
+\newblock \emph{Physical Review Letters}, 67:\penalty0 789, 1991.
+\newblock \doi{10.1103/PhysRevLett.67.789}.
+
+\bibitem[Poisson and Israel(1990)]{PoissonIsrael1990}
+Eric Poisson and Werner Israel.
+\newblock Internal structure of black holes.
+\newblock \emph{Physical Review D}, 41:\penalty0 1796, 1990.
+\newblock \doi{10.1103/PhysRevD.41.1796}.
+
+\bibitem[Price(1972)]{Price1972}
+Richard~H. Price.
+\newblock Nonspherical perturbations of relativistic gravitational collapse. i.
+  scalar and gravitational perturbations.
+\newblock \emph{Phys. Rev. D}, 5:\penalty0 2419, 1972.
+
+\bibitem[Price and Burko(2004)]{PriceBurko2004}
+Richard~H. Price and Lior~M. Burko.
+\newblock Late time tails from momentarily stationary, compact initial data in
+  {S}chwarzschild spacetimes.
+\newblock \emph{Phys. Rev. D}, 70:\penalty0 084039, 2004.
+
+\bibitem[Ripley and Pretorius(2019)]{RipleyPretorius2019}
+Justin~L. Ripley and Frans Pretorius.
+\newblock Hyperbolicity in spherical gravitational collapse in a {H}orndeski
+  theory, 2019.
+
+\bibitem[Shao et~al.(2025)Shao, Guo, Tian, and Zhang]{ShaoGuoTianZhang2025}
+Caiying Shao, Jun-Qi Guo, Yu~Tian, and Hongbao Zhang.
+\newblock Internal structure of hayward black holes.
+\newblock \emph{arXiv:2511.23165 [gr-qc]}, 2025.
+
+\end{thebibliography}

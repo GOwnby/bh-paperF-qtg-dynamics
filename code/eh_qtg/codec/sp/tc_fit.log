@@ -1,0 +1,44 @@
+sp/tc_E_m0_5_c0.02.npz c=0.02  I0=-c m_t=-0.1  m_f(stage N)=4.99849  m_t=5  tmax=12700
+  window [800,12700]: a0 = 1.00108  0.99908  0.99993    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [1600,12700]: a0 = 1.00054  0.99956  0.99999    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [3200,12700]: a0 = 1.00027  0.99978  1.00000    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  free (B,s,k) window [800,12700]: B/(4|I0|)=1.0203  s=-8.4  k=2.0020
+  free (B,s,k) window [1600,12700]: B/(4|I0|)=1.0100  s=-5.9  k=2.0010
+  free (B,s,k) window [3200,12700]: B/(4|I0|)=1.0051  s=-4.4  k=2.0005
+sp/tc_H_m0_10_c0.02.npz c=0.02  I0=-c m_t=-0.2  m_f(stage N)=9.99924  m_t=10  tmax=25400
+  window [800,25400]: a0 = 1.00491  0.99330  1.00449    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [1600,25400]: a0 = 1.00168  0.99857  0.99998    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [3200,25400]: a0 = 1.00083  0.99929  1.00000    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  free (B,s,k) window [800,25400]: B/(4|I0|)=1.1951  s=-144.9  k=2.0173
+  free (B,s,k) window [1600,25400]: B/(4|I0|)=1.0494  s=-97.4  k=2.0046
+/tmp/claude-0/-home-claude/717c308b-4c66-5933-99e1-d42d1016a975/scratchpad/k2/code/eh_qtg/codec/np_fit.py:16: RuntimeWarning: invalid value encountered in log
+  r=lambda p:(np.log(p[0])-p[2]*np.log(x-p[1]))-y
+  free (B,s,k) window [3200,25400]: B/(4|I0|)=1.0226  s=-85.2  k=2.0021
+sp/tc_H_m0_5_c0.01.npz c=0.01  I0=-c m_t=-0.05  m_f(stage N)=4.99962  m_t=5  tmax=12700
+  window [800,12700]: a0 = 1.00169  0.99856  0.99999    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [1600,12700]: a0 = 1.00083  0.99929  1.00000    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [3200,12700]: a0 = 1.00041  0.99964  1.00000    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  free (B,s,k) window [800,12700]: B/(4|I0|)=1.0469  s=-49.7  k=2.0047
+  free (B,s,k) window [1600,12700]: B/(4|I0|)=1.0214  s=-43.5  k=2.0021
+  free (B,s,k) window [3200,12700]: B/(4|I0|)=1.0104  s=-40.0  k=2.0010
+sp/tc_H_m0_5_c0.02.npz c=0.02  I0=-c m_t=-0.1  m_f(stage N)=4.99849  m_t=5  tmax=12700
+  window [800,12700]: a0 = 1.00111  0.99906  0.99993    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [1600,12700]: a0 = 1.00055  0.99955  0.99999    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [3200,12700]: a0 = 1.00028  0.99977  1.00000    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  free (B,s,k) window [800,12700]: B/(4|I0|)=1.0208  s=-9.4  k=2.0021
+  free (B,s,k) window [1600,12700]: B/(4|I0|)=1.0102  s=-6.8  k=2.0010
+  free (B,s,k) window [3200,12700]: B/(4|I0|)=1.0053  s=-5.2  k=2.0005
+sp/tc_H_m0_5_c0.04.npz c=0.04  I0=-c m_t=-0.2  m_f(stage N)=4.99397  m_t=5  tmax=12700
+  window [800,12700]: a0 = 1.00081  0.99931  0.99990    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [1600,12700]: a0 = 1.00040  0.99968  0.99998    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [3200,12700]: a0 = 1.00021  0.99984  0.99999    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  free (B,s,k) window [800,12700]: B/(4|I0|)=1.0154  s=8.2  k=2.0015
+  free (B,s,k) window [1600,12700]: B/(4|I0|)=1.0077  s=10.1  k=2.0008
+  free (B,s,k) window [3200,12700]: B/(4|I0|)=1.0041  s=11.3  k=2.0004
+sp/tc_H_m2.5_5_c0.02.npz c=0.02  I0=-c m_t=-0.1  m_f(stage N)=4.99840  m_t=5  tmax=12700
+  window [800,12700]: a0 = 1.00104  0.99912  0.99992    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [1600,12700]: a0 = 1.00051  0.99958  0.99999    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  window [3200,12700]: a0 = 1.00026  0.99979  0.99999    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
+  free (B,s,k) window [800,12700]: B/(4|I0|)=1.0191  s=-4.1  k=2.0019
+  free (B,s,k) window [1600,12700]: B/(4|I0|)=1.0094  s=-1.8  k=2.0009
+  free (B,s,k) window [3200,12700]: B/(4|I0|)=1.0049  s=-0.3  k=2.0005

@@ -1,0 +1,24 @@
+t=  100  phi_H t^2/(-4b)=1.19692  local index=-0.6683
+t=  200  phi_H t^2/(-4b)=1.03912  local index=5.1679
+t=  400  phi_H t^2/(-4b)=0.89323  local index=1.7931
+t=  800  phi_H t^2/(-4b)=0.92952  local index=1.9252
+t= 1600  phi_H t^2/(-4b)=0.96485  local index=1.9632
+t= 3200  phi_H t^2/(-4b)=0.98258  local index=1.9820
+t= 6400  phi_H t^2/(-4b)=0.99136  local index=1.9912
+t=  100  phi_H t^2/(-4b)=1.22017  local index=-0.6405
+t=  200  phi_H t^2/(-4b)=1.02117  local index=5.3135
+t=  400  phi_H t^2/(-4b)=0.89395  local index=1.8138
+t=  800  phi_H t^2/(-4b)=0.92810  local index=1.9236
+t= 1600  phi_H t^2/(-4b)=0.96415  local index=1.9624
+t= 3200  phi_H t^2/(-4b)=0.98223  local index=1.9817
+t= 6400  phi_H t^2/(-4b)=0.99119  local index=1.9910
+nplin_m0_M5_h0.2.npz b=1
+  window [800,12700]: a0 = 1.00018  1.00004  0.99997
+  window [1600,12700]: a0 = 1.00014  0.99997  0.99999
+  window [3200,12700]: a0 = 1.00009  0.99996  0.99997
+  free fit [1600,12700]: k=2.0005 B/(4|b|)=1.0047
+nplin_m1_M5_h0.2.npz b=1
+  window [800,12700]: a0 = 1.00018  1.00004  0.99996
+  window [1600,12700]: a0 = 1.00014  0.99997  0.99999
+  window [3200,12700]: a0 = 1.00009  0.99996  0.99997
+  free fit [1600,12700]: k=2.0005 B/(4|b|)=1.0049

@@ -1,0 +1,12 @@
+Sensitivity of code E to its input data (noise_tests.py; v1=800, hs=0.2, hv=0.1; max over the rows of |sigma_v - sigma_v(unperturbed)|, v=100 ... 800).
+Perturbation: relative 1e-12 of the quantity (constant bias unless marked), applied to the data of the initial row (PROW) or to the horizon column (PCOL).
+Reference: the unperturbed run (conv_e.log).  Outcome (note added after Sec. 'The seed of the late-time departure': these perturbations are multiplicative, so they vanish with the field at s=0 and cannot create the additive step in Delta_0 that seeds the late-time growth; see seed_amplitude.log): the response is linear, ~1e-11 to 1e-9 for 1e-12, and does not grow like exp(kappa_+ v) (a growth by 2e10 between v=100 and 800 would be visible).
+D (row0[3], random noise, relative 1e-12, 1e-10)      : 4e-12 ... 1e-11  (1e-12) ; 4e-10 ... 1e-9 (1e-10); flat in v
+D (row0[3], bias 1e-12)                               : 1.6e-11 (v=100) ... 4.8e-11 (v=730)
+Delta (row0[0], bias 1e-12)                           : 2e-13 (v=100), 3e-14 ... 1e-13
+sigma (row0[1], bias 1e-12)                           : 8e-11 (v=100), 1.9e-10 (170), 4.0e-10 (240), 1.0e-9 (660), 1.7e-9 (730)
+phi_s (row0[2], bias 1e-12)                           : 0
+r_H (col[0], bias 1e-12)                              : 7.2e-12 (v=100) ... 7.5e-12 (660), 1.1e-11 (730)
+r_v^H (col[3], bias 1e-12; random noise 1e-12)        : 2.9e-15 (100), 2.2e-13 (240), 3.0e-13 (660), 3.1e-13 (730)  ;  noise: 1e-13 ... 9e-12, flat
+sigma_v^H (col[5], bias 1e-12; random noise 1e-12)    : 2.5e-11 (100), 6.7e-11 (240), 2.0e-10 (660), 3.0e-10 (730) (linear in v) ; noise: 1e-12 ... 3e-12, flat
+phi_v^H (col[7], bias 1e-12)                          : 2.8e-13 (100), 4.5e-13 (240), 6.4e-13 (660), 6.1e-13 (730)

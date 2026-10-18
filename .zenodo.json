@@ -1,0 +1,20 @@
+﻿{
+    "keywords":  [
+                     "general relativity",
+                     "black holes",
+                     "Hayward metric",
+                     "numerical relativity",
+                     "theoretical physics"
+                 ],
+    "license":  "cc-by-4.0",
+    "title":  "The Mass-Tracking Closure in Four-Dimensional Quasi-Topological Gravity: Double-Null Equations, an Exact Generalized-Mass Law and Evolution from Event-Horizon-Regular Data",
+    "upload_type":  "publication",
+    "creators":  [
+                     {
+                         "name":  "Ownby, Gracen"
+                     }
+                 ],
+    "access_right":  "open",
+    "publication_type":  "preprint",
+    "description":  "LaTeX source, compiled PDF, 4D quasi-topological gravity double-null evolution codes (Codes A, B, C, E), exact rational action checks, and collapse-generated horizon tail data for Paper F."
+}

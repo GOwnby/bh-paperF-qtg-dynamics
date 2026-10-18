@@ -1,0 +1,61 @@
+seed 1  h(psi)=sum a_k psi^k, degree 4, a = {1: '1', 2: '3/11', 3: '-3/13', 4: '22/85'}
+  PHI=1   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=2.916e-04; without it the difference would be 2.916e-04)
+  PHI=6   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=3.780e-01; without it the difference would be 3.780e-01)
+  PHI=25  c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=1.139e+02; without it the difference would be 1.139e+02)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 11/10*(1+0 psi)]            |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=7.937e-02  d_v C_u=6.629e-03  (c3 term=3.780e-01; without it the difference would be 4.573e-01)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 1*(1+1/5 psi)]              |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=1.669e-01  d_v C_u=4.141e-02  (c3 term=3.780e-01; without it the difference would be 5.449e-01)
+seed 2  h(psi)=sum a_k psi^k, degree 6, a = {1: '1', 2: '1/11', 3: '1/13', 4: '0', 5: '-2/17', 6: '53/323'}
+  PHI=1   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=1.027e-02; without it the difference would be 1.027e-02)
+  PHI=6   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=1.330e+01; without it the difference would be 1.330e+01)
+  PHI=25  c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=4.010e+03; without it the difference would be 4.010e+03)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 11/10*(1+0 psi)]            |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=2.794e+00  d_v C_u=1.825e-01  (c3 term=1.330e+01; without it the difference would be 1.610e+01)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 1*(1+1/5 psi)]              |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=-3.286e+00  d_v C_u=-1.722e+00  (c3 term=1.330e+01; without it the difference would be 1.002e+01)
+seed 3  h(psi)=sum a_k psi^k, degree 4, a = {1: '1', 2: '0', 3: '1/13', 4: '32/255'}
+  PHI=1   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=-1.195e-05; without it the difference would be -1.195e-05)
+  PHI=6   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=-1.549e-02; without it the difference would be -1.549e-02)
+  PHI=25  c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=-4.669e+00; without it the difference would be -4.669e+00)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 11/10*(1+0 psi)]            |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=-3.253e-03  d_v C_u=6.994e-02  (c3 term=-1.549e-02; without it the difference would be -1.874e-02)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 1*(1+1/5 psi)]              |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=1.498e-03  d_v C_u=-3.221e-01  (c3 term=-1.549e-02; without it the difference would be -1.399e-02)
+seed 4  h(psi)=sum a_k psi^k, degree 6, a = {1: '1', 2: '0', 3: '-3/13', 4: '2/15', 5: '1/17', 6: '36/323'}
+  PHI=1   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=4.135e-05; without it the difference would be 4.135e-05)
+  PHI=6   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=5.359e-02; without it the difference would be 5.359e-02)
+  PHI=25  c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=1.615e+01; without it the difference would be 1.615e+01)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 11/10*(1+0 psi)]            |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=1.125e-02  d_v C_u=0 (exact)  (c3 term=5.359e-02; without it the difference would be 6.485e-02)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 1*(1+1/5 psi)]              |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=1.918e-02  d_v C_u=1.852e-02  (c3 term=5.359e-02; without it the difference would be 7.278e-02)
+seed 5  h(psi)=sum a_k psi^k, degree 4, a = {1: '1', 2: '0', 3: '3/13', 4: '1/17'}
+  PHI=1   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=8.102e-05; without it the difference would be 8.102e-05)
+  PHI=6   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=1.050e-01; without it the difference would be 1.050e-01)
+  PHI=25  c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=3.165e+01; without it the difference would be 3.165e+01)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 11/10*(1+0 psi)]            |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=2.205e-02  d_v C_u=2.977e-02  (c3 term=1.050e-01; without it the difference would be 1.270e-01)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 1*(1+1/5 psi)]              |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=8.221e-02  d_v C_u=1.809e-01  (c3 term=1.050e-01; without it the difference would be 1.872e-01)
+seed 6  h(psi)=sum a_k psi^k, degree 6, a = {1: '1', 2: '-1/11', 3: '-3/13', 4: '-2/15', 5: '0', 6: '70/323'}
+  PHI=1   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=5.362e-04; without it the difference would be 5.362e-04)
+  PHI=6   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=6.949e-01; without it the difference would be 6.949e-01)
+  PHI=25  c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=2.095e+02; without it the difference would be 2.095e+02)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 11/10*(1+0 psi)]            |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=1.459e-01  d_v C_u=-2.428e-02  (c3 term=6.949e-01; without it the difference would be 8.409e-01)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 1*(1+1/5 psi)]              |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=4.287e-01  d_v C_u=-3.251e-02  (c3 term=6.949e-01; without it the difference would be 1.124e+00)
+seed 7  h(psi)=sum a_k psi^k, degree 4, a = {1: '1', 2: '3/11', 3: '-3/13', 4: '22/85'}
+  PHI=1   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=2.568e-02; without it the difference would be 2.568e-02)
+  PHI=6   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=3.328e+01; without it the difference would be 3.328e+01)
+  PHI=25  c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=1.003e+04; without it the difference would be 1.003e+04)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 11/10*(1+0 psi)]            |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=6.989e+00  d_v C_u=2.675e-01  (c3 term=3.328e+01; without it the difference would be 4.027e+01)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 1*(1+1/5 psi)]              |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=-3.813e+00  d_v C_u=-2.615e+00  (c3 term=3.328e+01; without it the difference would be 2.947e+01)
+seed 8  h(psi)=sum a_k psi^k, degree 6, a = {1: '1', 2: '1/11', 3: '0', 4: '-1/15', 5: '-3/17', 6: '53/323'}
+  PHI=1   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=1.540e-01; without it the difference would be 1.540e-01)
+  PHI=6   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=1.996e+02; without it the difference would be 1.996e+02)
+  PHI=25  c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=6.017e+04; without it the difference would be 6.017e+04)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 11/10*(1+0 psi)]            |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=4.192e+01  d_v C_u=2.508e-01  (c3 term=1.996e+02; without it the difference would be 2.415e+02)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 1*(1+1/5 psi)]              |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=1.008e+02  d_v C_u=6.431e+00  (c3 term=1.996e+02; without it the difference would be 3.004e+02)
+seed 9  h(psi)=sum a_k psi^k, degree 4, a = {1: '1', 2: '-2/11', 3: '-3/13', 4: '1/17'}
+  PHI=1   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=-2.667e-01; without it the difference would be -2.667e-01)
+  PHI=6   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=-3.456e+02; without it the difference would be -3.456e+02)
+  PHI=25  c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=-1.042e+05; without it the difference would be -1.042e+05)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 11/10*(1+0 psi)]            |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=-7.258e+01  d_v C_u=1.374e+00  (c3 term=-3.456e+02; without it the difference would be -4.182e+02)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 1*(1+1/5 psi)]              |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=-2.492e+01  d_v C_u=-5.512e+01  (c3 term=-3.456e+02; without it the difference would be -3.705e+02)
+seed 10  h(psi)=sum a_k psi^k, degree 6, a = {1: '1', 2: '2/11', 3: '1/13', 4: '1/5', 5: '3/17', 6: '53/323'}
+  PHI=1   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=2.086e-04; without it the difference would be 2.086e-04)
+  PHI=6   c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=2.704e-01; without it the difference would be 2.704e-01)
+  PHI=25  c=4pi/h                                                        |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=0 (exact)  d_v C_u=0 (exact)  (c3 term=8.150e+01; without it the difference would be 8.150e+01)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 11/10*(1+0 psi)]            |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=5.678e-02  d_v C_u=4.918e-02  (c3 term=2.704e-01; without it the difference would be 3.272e-01)
+  PHI=6   c=4pi/h  [CONTROL: c multiplied by 1*(1+1/5 psi)]              |E_sigma on shell|=0  sigma_uv(action)-sigma_uv(paper)=6.422e-03  d_v C_u=-6.132e-02  (c3 term=2.704e-01; without it the difference would be 2.768e-01)
+max |difference| for c=4pi/h over all seeds: 0

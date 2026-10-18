@@ -1,0 +1,8 @@
+model 0 A=0.03003001 v1e=66.224
+  t in [600,1200]: free k=3.4181 (B=688.221, vs-vstart=-105.48) | k=3: B=26.2467 vs-vstart=10.99
+  t in [1200,2400]: free k=3.0088 (B=27.207, vs-vstart=18.91) | k=3: B=25.2613 vs-vstart=23.79
+  t in [600,2400]: free k=3.0552 (B=39.999, vs-vstart=-2.71) | k=3: B=25.5111 vs-vstart=18.61
+model 1 A=0.03003009 v1e=112.287
+  t in [600,1200]: free k=3.4493 (B=887.891, vs-vstart=-115.30) | k=3: B=26.4736 vs-vstart=10.02
+  t in [1200,2400]: free k=3.0090 (B=27.461, vs-vstart=18.22) | k=3: B=25.4474 vs-vstart=23.23
+  t in [600,2400]: free k=3.0573 (B=40.996, vs-vstart=-4.22) | k=3: B=25.7055 vs-vstart=17.93

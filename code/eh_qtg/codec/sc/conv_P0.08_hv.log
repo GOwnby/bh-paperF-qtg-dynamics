@@ -1,0 +1,8 @@
+rays 4  columns: max over rays of |dlnK|, |dsigma_v|, |dr|, |dlnm|
+v= 100  2.22e-02 7.20e-04 4.40e-05 1.26e-03
+v= 200  8.41e-03 4.23e-05 4.41e-05 9.03e-04
+v= 400  7.12e-03 4.01e-05 4.41e-05 9.36e-04
+v= 800  6.93e-03 4.23e-05 4.41e-05 9.21e-04
+run         r_inf   zm(900)     r^3/2     dm/dv    closed   ratio
+run         r_inf   zm(900)     r^3/2     dm/dv    closed   ratio
+P0.08     1.03227   0.54994   0.54999     7.809     7.857   0.994

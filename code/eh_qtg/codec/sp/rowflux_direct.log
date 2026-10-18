@@ -1,0 +1,2 @@
+sp/rowflux_a.log:   direct: E_scri=7.8596e-05 (E_scri/mf=7.860e-06)  Q_scri=Int a dU=-2.5477e+00  max|a|=1.971e-02  U-extent of signal 0.0..1099.8 (final-row points with x>x0+200: 5500)
+sp/rowflux_b.log:   direct: E_scri=2.1510e-04 (E_scri/mf=8.604e-06)  Q_scri=Int a dU=-1.8566e+01  max|a|=5.237e-02  U-extent of signal 0.0..1099.5 (final-row points with x>x0+200: 2200)

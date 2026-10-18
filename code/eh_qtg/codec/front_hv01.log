@@ -1,0 +1,4 @@
+genc_prof_hs0.2_hv0.1_ ray 0 U=0.299 front(z<half of v=45 value) v=53  v*sV(1400)=-8.190  K(1400)=6.735e+31 slope=9.830 m(1400)=5646.3
+genc_prof_hs0.2_hv0.1_ ray 1 U=0.599 front(z<half of v=45 value) v=78  v*sV(1400)=-8.190  K(1400)=1.265e+32 slope=9.899 m(1400)=5706.9
+genc_prof_hs0.2_hv0.1_ ray 2 U=0.997 front(z<half of v=45 value) v=70  v*sV(1400)=-8.190  K(1400)=1.300e+33 slope=9.939 m(1400)=5742.2
+genc_prof_hs0.2_hv0.1_ ray 3 U=1.201 front(z<half of v=45 value) v=68  v*sV(1400)=-8.190  K(1400)=8.263e+35 slope=9.947 m(1400)=5750.6

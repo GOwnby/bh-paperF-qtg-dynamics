@@ -1,0 +1,10 @@
+eps        v(dev>0.01) v(dev>0.05) v(dev>0.5)
+0              none      none      none
+1e-15           716       747       788
+3.55e-15        691       722       763
+1e-14           670       701       742
+1e-13           625       656       696
+1e-12           579       610       650
+threshold 0.01: dv/dln(eps) = -19.81 (expected -20.42), rms residual 0.21
+threshold 0.05: dv/dln(eps) = -19.81 (expected -20.42), rms residual 0.21
+threshold 0.5 : dv/dln(eps) = -20.00 (expected -20.42), rms residual 0.12

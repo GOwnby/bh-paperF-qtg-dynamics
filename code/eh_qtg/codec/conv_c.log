@@ -1,0 +1,28 @@
+ray 0 U=0.299
+  v=100: dlnK=7.1e-04 dsV=1.1e-05 dr/r=4.3e-06 dlnm=3.1e-05 dPV/PV=8.4e-06
+  v=200: dlnK=3.6e-04 dsV=8.2e-06 dr/r=4.3e-06 dlnm=2.3e-05 dPV/PV=8.0e-06
+  v=400: dlnK=2.7e-04 dsV=7.4e-06 dr/r=4.3e-06 dlnm=1.7e-05 dPV/PV=8.7e-06
+  v=800: dlnK=1.7e-04 dsV=8.2e-06 dr/r=4.3e-06 dlnm=1.9e-05 dPV/PV=8.1e-06
+  v=1200: dlnK=1.2e-04 dsV=8.3e-06 dr/r=4.3e-06 dlnm=2.1e-05 dPV/PV=8.0e-06
+  v=1400: dlnK=1.1e-04 dsV=8.3e-06 dr/r=4.3e-06 dlnm=2.1e-05 dPV/PV=8.0e-06
+ray 1 U=0.599
+  v=100: dlnK=5.2e-04 dsV=8.0e-06 dr/r=4.3e-06 dlnm=1.1e-05 dPV/PV=8.4e-06
+  v=200: dlnK=3.5e-04 dsV=8.2e-06 dr/r=4.3e-06 dlnm=2.3e-05 dPV/PV=8.0e-06
+  v=400: dlnK=2.7e-04 dsV=7.4e-06 dr/r=4.3e-06 dlnm=1.6e-05 dPV/PV=8.7e-06
+  v=800: dlnK=1.7e-04 dsV=8.2e-06 dr/r=4.3e-06 dlnm=1.8e-05 dPV/PV=8.1e-06
+  v=1200: dlnK=1.2e-04 dsV=8.3e-06 dr/r=4.3e-06 dlnm=2.0e-05 dPV/PV=8.0e-06
+  v=1400: dlnK=1.0e-04 dsV=8.3e-06 dr/r=4.3e-06 dlnm=2.0e-05 dPV/PV=8.0e-06
+ray 2 U=0.997
+  v=100: dlnK=4.4e-04 dsV=7.9e-06 dr/r=4.3e-06 dlnm=1.9e-05 dPV/PV=8.4e-06
+  v=200: dlnK=3.2e-04 dsV=8.2e-06 dr/r=4.3e-06 dlnm=2.2e-05 dPV/PV=8.0e-06
+  v=400: dlnK=2.4e-04 dsV=7.4e-06 dr/r=4.3e-06 dlnm=1.6e-05 dPV/PV=8.7e-06
+  v=800: dlnK=1.3e-04 dsV=8.2e-06 dr/r=4.3e-06 dlnm=1.8e-05 dPV/PV=8.1e-06
+  v=1200: dlnK=8.2e-05 dsV=8.3e-06 dr/r=4.3e-06 dlnm=2.0e-05 dPV/PV=8.0e-06
+  v=1400: dlnK=6.7e-05 dsV=8.3e-06 dr/r=4.3e-06 dlnm=1.9e-05 dPV/PV=8.0e-06
+ray 3 U=1.201
+  v=100: dlnK=4.6e-04 dsV=7.9e-06 dr/r=4.3e-06 dlnm=1.8e-05 dPV/PV=8.4e-06
+  v=200: dlnK=3.5e-04 dsV=8.2e-06 dr/r=4.3e-06 dlnm=2.2e-05 dPV/PV=8.0e-06
+  v=400: dlnK=2.6e-04 dsV=7.4e-06 dr/r=4.3e-06 dlnm=1.6e-05 dPV/PV=8.7e-06
+  v=800: dlnK=1.5e-04 dsV=8.2e-06 dr/r=4.3e-06 dlnm=1.8e-05 dPV/PV=8.1e-06
+  v=1200: dlnK=1.1e-04 dsV=8.3e-06 dr/r=4.3e-06 dlnm=2.0e-05 dPV/PV=8.0e-06
+  v=1400: dlnK=9.0e-05 dsV=8.3e-06 dr/r=4.3e-06 dlnm=1.9e-05 dPV/PV=8.0e-06

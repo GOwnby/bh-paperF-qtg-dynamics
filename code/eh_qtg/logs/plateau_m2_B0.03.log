@@ -1,0 +1,5 @@
+B=0.03  -kappa_-(m_f)=-0.7978093
+ U=0.300  n=18  median -0.7977539  spread 6.7e-03  median+kappa +5.5e-05
+ U=0.600  n= 9  median -0.7968879  spread 7.5e-03  median+kappa +9.2e-04
+ U=0.997  (fewer than 3 plateau points)
+ U=1.200  (fewer than 3 plateau points)
