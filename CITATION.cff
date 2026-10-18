@@ -1,8 +1,10 @@
-﻿cff-version: 1.2.0
+cff-version: 1.2.0
 message: "If you use this software or manuscript, please cite it as below."
+title: "The Mass-Tracking Closure in Four-Dimensional Quasi-Topological Gravity: Double-Null Equations, an Exact Generalized-Mass Law and Evolution from Event-Horizon-Regular Data"
+abstract: "LaTeX source, compiled PDF, 4D quasi-topological gravity double-null evolution codes, exact rational action checks, and collapse-generated horizon tail data for Paper F."
 authors:
   - family-names: "Ownby"
     given-names: "Gracen"
-title: "The Mass-Tracking Closure in Four-Dimensional Quasi-Topological Gravity: Double-Null Equations, an Exact Generalized-Mass Law and Evolution from Event-Horizon-Regular Data"
-version: "v1.0.0"
+version: "v1.0.1"
 date-released: "2026-10-18"
+license: "CC-BY-4.0"
