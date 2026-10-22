@@ -1,0 +1,9 @@
+--- code/build.sh  rc=0  3.0 s
+build done
+
+--- code/eh_qtg/setup.sh  rc=0  19.7 s
+setup done
+
+--- codec/restore_archive.sh  rc=0  5.2 s
+archive restored into codec/sc and codec/sp
+

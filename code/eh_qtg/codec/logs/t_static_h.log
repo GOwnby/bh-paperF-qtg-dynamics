@@ -1,0 +1,6 @@
+h=0.2 model 1 m0=5: max|m-m0|=7.12e-04  max|psi-psi_s|/psi_s=1.41e-04  max|PU|=0.00e+00  finite 101/101
+  at r=10.142 (row v1): m=5.00071232  rv=0.00969  f/ (2*...)
+h=0.1 model 1 m0=5: max|m-m0|=1.78e-04  max|psi-psi_s|/psi_s=3.53e-05  max|PU|=0.00e+00  finite 201/201
+  at r=10.142 (row v1): m=5.00017806  rv=0.00974  f/ (2*...)
+h=0.05 model 1 m0=5: max|m-m0|=4.45e-05  max|psi-psi_s|/psi_s=8.82e-06  max|PU|=0.00e+00  finite 401/401
+  at r=10.142 (row v1): m=5.00004451  rv=0.00975  f/ (2*...)

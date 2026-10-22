@@ -1,0 +1,5 @@
+h=0.01     max|psi_v - rhs|/max|rhs| for v in [40,56],[56,62],[62,66]: 2.1e-03 3.9e-01 2.8e+00
+h=0.005    max|psi_v - rhs|/max|rhs| for v in [40,56],[56,62],[62,66]: 5.0e-04 1.0e-01 2.7e+00
+h=0.0025   max|psi_v - rhs|/max|rhs| for v in [40,56],[56,62],[62,66]: 9.6e-05 2.6e-02 9.3e-01
+h=0.00125  max|psi_v - rhs|/max|rhs| for v in [40,56],[56,62],[62,66]: 5.3e-05 6.5e-03 2.4e-01
+h=0.000625 max|psi_v - rhs|/max|rhs| for v in [40,56],[56,62],[62,66]: 5.9e-05 1.6e-03 6.1e-02

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Regenerates every log and data file of Sections 9-12 of Paper F (about 90 minutes on one core; the runs are independent and can be started in parallel).
+# Regenerates every log and data file of Sections 9-12 of Paper F (long: the runs are independent and can be started in parallel; per-script run times in ../README.md).
 # usage: bash setup.sh && bash run_eh.sh
 set -e
 cd "$(dirname "$0")"; mkdir -p logs data

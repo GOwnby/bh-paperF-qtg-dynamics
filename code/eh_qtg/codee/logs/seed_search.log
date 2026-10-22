@@ -1,16 +1,25 @@
-Search for the seed of the late-time departure of code E (Paper F, Sec. "The seed of the late-time departure"); v1=950, B=3e-3, k=3/2, m=5, hs=0.2, hv=0.1, ray U=0.9968.
-Entries: v*sigma_v at v = 500, 600, 650, 700, 740, 780.  (Scratch scripts, not shipped: the column/row builders were run with other integrator tolerances; the shipped gen_e.py has the correction.)
+Search for the seed of the late-time departure of code E (Paper F); v1=950, B=3e-3, k=3/2, m=5, hs=0.2, hv=0.1, ray U=0.9968.
+Entries: v*sigma_v at v = 500, 600, 650, 700, 740, 780.
 
-(1) Integrator tolerances of the horizon column (shooting DOP853 rtol / sigma,sigma_U,phi_U rtol):
-    default (1e-13 / 1e-12)    : -5.12231 -5.09762 -5.08757 -5.06499 -4.94032 -3.29144
-    loose   (1e-11 / 1e-10)    : -5.1223 -5.0974 -5.0843 -5.0213 -4.4664  18.4949  (4 decimals)
-    tight   (2.3e-14 / 2.3e-14): -5.12231 -5.09788 -5.09084 -5.10539 -5.22996 -5.13621
-    Largest relative difference of the column fields between the runs: 2e-15 (r_H), 5e-16 (sigma_H), 3e-15 (sigma_v^H); r_v^H: 2e-12 at v=0 only, <1e-20 elsewhere; phi_v^H identical.
-(2) Replacing, one at a time, the column channels r_H, sigma_H, (r_U^H, sigma_U^H, phi_U^H), r_v^H, sigma_v^H of the default run by those of the tight run: identical to the default run in every printed digit
-    (-5.12231 -5.09762 -5.08757 -5.06499 -4.94032 -3.29144).  Perturbing sigma_U^H or phi_U^H by 1e-12: responses 0 ... 1e-13 (they are not used by the evolution).
-(3) Initial row of the tight run with the default column, and all of the tight run: identical to the tight run (-5.12231 -5.09788 -5.09084 -5.10539 -5.22996 -5.13621).  => the seed is in the initial row.
-(4) Delta_0 = zz + EPS, zz the static r - r_+ without cancellation, EPS = r_+ - r_H(0) (3.55e-15 for the default run, 2 ulps of r_+ = 9.898):
-    EPS = 0       : -5.12231 -5.09773 -5.08888 -5.08153 -5.07649 -5.07205   (regular; continued to v=1400 with v1=1500, see kstudy2_double_v1500.log)
-    EPS = 3e-15   : -5.12231 -5.09764 -5.08778 -5.06760 -4.96338 -3.70066
-    EPS = 3.55e-15: -5.12231 -5.09762 -5.08757 -5.06499 -4.94032 -3.29144   (default)
-    EPS dependence of the departure time: seed_amplitude.log.
+(1) Integrator tolerances of the horizon column (shooting DOP853 rtol / sigma,sigma_U,phi_U rtol), former initial row:
+    default (1e-13 / 1e-12)           : -5.12231 -5.09762 -5.08757 -5.06499 -4.94032 -3.29144
+    loose   (1e-11 / 1e-10)           : -5.1223 -5.0974 -5.0843 -5.0213 -4.4664 18.4949
+    tight   (2.3e-14 / 2.3e-14)       : -5.12231 -5.09788 -5.09084 -5.10539 -5.22996 -5.13621
+    r_+ - r_H(0): default 3.553e-15, loose 1.243e-14, tight -5.329e-15
+    Largest relative difference of the column fields between default and tight: r_H 2e-15, sigma_H 5e-14, sigma_v^H 2e-15; r_v^H (absolute): 3e-18 at v=0, 1e-17 elsewhere; phi_v^H 0e+00
+(2) Replacing, one group at a time, the column channels of the default run by those of the tight run (default initial row):
+    r_H                               : -5.12231 -5.09762 -5.08757 -5.06499 -4.94032 -3.29144
+    sigma_H                           : -5.12231 -5.09762 -5.08757 -5.06499 -4.94032 -3.29144
+    r_U^H, sigma_U^H, phi_U^H         : -5.12231 -5.09762 -5.08757 -5.06499 -4.94032 -3.29144
+    r_v^H                             : -5.12231 -5.09762 -5.08757 -5.06499 -4.94032 -3.29144
+    sigma_v^H                         : -5.12231 -5.09762 -5.08757 -5.06499 -4.94032 -3.29144
+(3) Initial row of the tight run with the default column; and of the default run with the tight column:
+    tight row + default column        : -5.12231 -5.09788 -5.09084 -5.10539 -5.22996 -5.13621
+    default row + tight column        : -5.12231 -5.09762 -5.08757 -5.06499 -4.94032 -3.29144
+    perturbing sigma_U^H or phi_U^H of the default column by 1e-12 (relative): largest change of v*sigma_v
+    sigma_U^H    0.0e+00
+    phi_U^H      0.0e+00
+(4) Delta_0 = zz + EPS, zz the static r - r_+ without cancellation, EPS = r_+ - r_H(0) (3.553e-15 for the default run, 2 ulps of r_+ = 9.898):
+    EPS = 0       (corrected row)     : -5.12231 -5.09773 -5.08888 -5.08153 -5.07649 -5.07205
+    EPS = 3e-15                       : -5.12231 -5.09764 -5.08778 -5.06760 -4.96338 -3.70066
+    EPS = 3.55e-15                    : -5.12231 -5.09762 -5.08758 -5.06500 -4.94044 -3.29359

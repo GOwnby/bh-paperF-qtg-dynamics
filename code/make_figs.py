@@ -26,7 +26,7 @@ for uu,c in ((-6,'#8e44ad'),(-1,'#2a6aa8'),(2,'#1e8449')):
     i=int(round((uu+6)/h)); ax[2].plot(v,psi[:,i],color=c,label='u=%g'%uu,lw=1.3)
 ax[2].axhline(1.0,color='#b03a2e',lw=1,ls='--'); ax[2].axhline(-1.0,color='#b03a2e',lw=1,ls='--'); ax[2].set_ylim(-1.1,1.1)
 ax[2].set_xlabel('v'); ax[2].set_ylabel(r'$\psi$'); ax[2].set_title(r'(c) bounded $h$: walls $\pm1/\alpha$ (m=1, B=0.002)'); ax[2].legend(fontsize=7,loc='center right',frameon=False)
-plt.tight_layout(); plt.savefig('fig_qtg.pdf'); plt.savefig('fig_qtg.png',dpi=160)
+plt.tight_layout(); _o=os.environ.get('FIG_OUT','.'); plt.savefig(os.path.join(_o,'fig_qtg.pdf')); plt.savefig(os.path.join(_o,'fig_qtg.png'),dpi=160)
 print('slope per decade %.3f'%p[0]); print('model2 range',np.nanmin(psi),np.nanmax(psi),'finite',np.isfinite(psi).all())
 for uu in (-6,-3,-1,0,2,4,6):
     i=int(round((uu+6)/h)); print(' u=%2g psi(v=20,40,60,76): %s | sigma_v %s | y(vmax) %+.2e'%(uu,' '.join('%.5f'%psi[int(round(x/h)),i] for x in (20,40,60,76)),' '.join('%+.3f'%SV[int(round(x/h)),i] for x in (20,40,60,76)),-RU[-1,i]/W[-1,i]))

@@ -21,7 +21,13 @@ def vstar(model,L2,B,k,A=0.02,width=1.0,PSIMAX=1e6,vmax=400,rtol=1e-12):
     sol=solve_ivp(rhs,[0,vmax],[rc,fc/2,fc/2,dfr(bg,rc)/2,dph1(u0)],method='DOP853',rtol=rtol,atol=1e-300,events=ev)
     s=sol.t[-1]; Y=sol.y[:,-1]; y=bg.y(np.array([(s+u0)/2]))[0]; W=abs(bg.fy(y)); psi=(1+4*Y[1]*Y[2]/W)/Y[0]**2
     return s,psi,Y[0]-bg.rm,sol.status
-if __name__=='__main__':
+if __name__=='__main__' and len(sys.argv)>1 and sys.argv[1]=='sub':
+    # all solves except B = 2e-1 (the solver gives up at the singularity, status -1, and needs about an hour): the lines are those of ray_blowup.log;  python3 ray_blowup.py sub
+    for B in (2e-2,2e-3,2e-4,2e-5,2e-6,2e-7):
+        s,psi,dr,st=vstar(1,1.0,B,1.5); print('  B=%.0e  v_*=%8.3f  psi(v_*)=%+.3e  r-r_-=%+.3e  status %d'%(B,s,psi,dr,st))
+    for k in (0.5,1.0,1.5,2.0,3.0):
+        s,psi,dr,st=vstar(1,1.0,2e-3,k); print('  k=%.1f v_*=%8.3f psi=%+.3e'%(k,s,psi))
+elif __name__=='__main__':
     res=[]
     print('Hayward h (model 1, l=1), tail k=1.5')
     for B in (2e-1,2e-2,2e-3,2e-4,2e-5,2e-6,2e-7):

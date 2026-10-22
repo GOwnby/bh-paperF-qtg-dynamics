@@ -1,0 +1,13 @@
+A=0.02 B=0.002 h=0.02 vmax=56.5  finite: True
+ u= -6: no blow-up           max|psi|=8.958e-01 at v=33.8  psi(v=vmax-1)=8.550e-01
+ u= -5: no blow-up           max|psi|=8.950e-01 at v=33.2  psi(v=vmax-1)=8.534e-01
+ u= -4: no blow-up           max|psi|=8.946e-01 at v=32.7  psi(v=vmax-1)=8.520e-01
+ u= -3: no blow-up           max|psi|=8.944e-01 at v=32.1  psi(v=vmax-1)=8.498e-01
+ u= -2: no blow-up           max|psi|=8.943e-01 at v=31.5  psi(v=vmax-1)=8.457e-01
+ u= -1: no blow-up           max|psi|=9.178e-01 at v=56.1  psi(v=vmax-1)=9.169e-01
+ u=  0: no blow-up           max|psi|=9.432e-01 at v=54.9  psi(v=vmax-1)=9.419e-01
+ u=  1: no blow-up           max|psi|=9.451e-01 at v=54.6  psi(v=vmax-1)=9.424e-01
+ u=  2: no blow-up           max|psi|=9.442e-01 at v=54.4  psi(v=vmax-1)=9.406e-01
+ u=  4: no blow-up           max|psi|=9.284e-01 at v=54.2  psi(v=vmax-1)=9.255e-01
+ u=  6: no blow-up           max|psi|=9.080e-01 at v=52.6  psi(v=vmax-1)=9.051e-01
+ u=  8: no blow-up           max|psi|=9.255e-01 at v=0.0  psi(v=vmax-1)=9.003e-01

@@ -1,0 +1,10 @@
+model 1 m0=5 mt=10 s=2.00 h=0.100 rp=19.9497
+  r in [29.92,59.85): max|m-mt|=6.97e-05  max|psi/psi_s-1|=6.96e-06  (358 pts)
+  r in [21.94,29.92): max|m-mt|=1.23e-04  max|psi/psi_s-1|=1.23e-05  (95 pts)
+  r in [20.15,21.94): max|m-mt|=1.22e-04  max|psi/psi_s-1|=1.21e-05  (17 pts)
+  r in [17.95,20.15): max|m-mt|=1.04e-04  max|psi/psi_s-1|=1.04e-05  (19 pts)
+model 1 m0=5 mt=25 s=5.00 h=0.250 rp=49.9800
+  r in [74.97,149.94): max|m-mt|=1.99e-04  max|psi/psi_s-1|=7.96e-06  (398 pts)
+  r in [54.98,74.97): max|m-mt|=3.76e-04  max|psi/psi_s-1|=1.50e-05  (103 pts)
+  r in [50.48,54.98): max|m-mt|=3.76e-04  max|psi/psi_s-1|=1.50e-05  (19 pts)
+  r in [44.98,50.48): max|m-mt|=3.48e-04  max|psi/psi_s-1|=1.39e-05  (21 pts)

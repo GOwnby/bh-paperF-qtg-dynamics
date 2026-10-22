@@ -1,12 +1,35 @@
 cff-version: 1.2.0
 message: "If you use this software or manuscript, please cite it as below."
 title: "The Mass-Tracking Closure in Four-Dimensional Quasi-Topological Gravity: Double-Null Equations, an Exact Generalized-Mass Law and Evolution from Event-Horizon-Regular Data"
-abstract: "LaTeX source, compiled PDF, 4D quasi-topological gravity double-null evolution codes, exact rational action checks, and collapse-generated horizon tail data for Paper F."
+abstract: >-
+  The series' regular black hole is the Hayward metric, whose static sector is realized in four-dimensional
+  quasi-topological gravity with h(psi) = psi/(1 - l^2 psi). We write the field equations with a massless scalar field in
+  double-null form, derive them from the reduced action, and obtain an exact law for the generalized mass,
+  d_v m = 8 pi r^2 y phi_v^2, for every h. For data regular on the event horizon y >= 1/2, so m cannot decrease; the
+  finite-time singularity of interior characteristic data belongs to the branch y < 0. A constrained evolution from such
+  data agrees with an independent fourth-order code to 1e-7 in r. For tail amplitudes 3e-4 to 3e-2 the interior flux is
+  the linear kernel of Paper G, the metric exponent is -kappa_-(m_f), and a front arrives behind which psi tends to
+  1/l^2, m grows linearly and the Kretschmann invariant exceeds 1e25 l^-4: the curvature bound of the static solutions
+  does not extend to the dynamical interior. The accurate range of a scheme of order p is limited by an error growing as
+  h_v^p exp(kappa_+ v), explained by a one-dimensional model with one fitted constant; evolving the difference from the
+  exact horizon solution removes it (regular to kappa_+ v = 69). Behind the front the solution is slaved to the interior
+  flux, and K ~ v^(4k-2) for a tail v^(-k) is an extrapolation supported over the simulated range. A collapse of a
+  compact scalar pulse generates the tail v^(-3); for strong pulses its coefficient is F 8 m_f |Q| with
+  F = 1 - Q_abs/Q_0 (Q_0 the Noether charge of the data, Q_abs the charge absorbed by the growing event horizon), to
+  0.05% on average in 22 cases. The identification of Q_abs with the horizon term of the time-inverted
+  Newman-Penrose constant of Gajic and Kehrberger is conditional: the hypotheses of their theorem were not verified for
+  the collapse data, and of that paper only the abstract, the introduction and Sections 1-3 were read (Theorem 4.1 and
+  the later sections were not). Not established: extendibility at v = infinity and timelike tidal forces.
 authors:
   - family-names: "Ownby"
     given-names: "Gracen"
-version: "v1.0.1"
-doi: "10.5281/zenodo.23455596"
-date-released: "2026-10-18"
-url: "https://doi.org/10.5281/zenodo.23455596"
-license: "CC-BY-4.0"
+version: "1.1.0"
+doi: "10.5281/zenodo.23455595"
+date-released: "2026-10-20"
+url: "https://doi.org/10.5281/zenodo.23455595"
+license: "CC-BY-4.0"   # manuscript, figures, data; code is MIT (see LICENSE.md)
+keywords:
+  - quasi-topological gravity
+  - regular black holes
+  - double-null evolution
+  - mass inflation

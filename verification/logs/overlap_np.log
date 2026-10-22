@@ -1,0 +1,9 @@
+vrel 61.95 x0 diff 30.970618046918666  (matching row v_e) 
+x= 34.941 psi_N=-4.411844e-03 psi_L=-4.416059e-03  rel diff 9.55e-04
+x= 29.905 psi_N=-7.358020e-03 psi_L=-7.361322e-03  rel diff 4.49e-04
+x= 19.971 psi_N=-1.034119e-02 psi_L=-1.034256e-02  rel diff 1.33e-04
+x=  9.267 psi_N=-1.047437e-02 psi_L=-1.047427e-02  rel diff -9.88e-06
+x= -1.870 psi_N=-9.508620e-03 psi_L=-9.507583e-03  rel diff -1.09e-04
+x= -8.912 psi_N=-8.987752e-03 psi_L=-8.986730e-03  rel diff -1.14e-04
+x= -8.912 psi_N=-8.987752e-03 psi_L=-8.986730e-03  rel diff -1.14e-04
+x= -8.912 psi_N=-8.987752e-03 psi_L=-8.986730e-03  rel diff -1.14e-04

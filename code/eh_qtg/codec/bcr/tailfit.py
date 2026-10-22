@@ -3,9 +3,11 @@
  h: Richardson (2nd order; verified for the base pulse with h=0.1,0.05,0.025: ratio of differences 3.9)
  eps: slope in eps_hi^2 from the (0.04,0.02) and (0.02,0.01) pairs at h=0.1 (relative correction applied to the h-converged value)
  t: fit c + a/t + b/t^2 over t in [t1,t2]."""
-import sys,numpy as np; sys.path.insert(0,'.')
-import bcr
+import sys,os,numpy as np; sys.path.insert(0,'.')
 tag=sys.argv[1]; j=int(sys.argv[2]) if len(sys.argv)>2 else 0
+# amplitude asymmetry of the pulse a(s) (the integrals X1, X2, M_ADM below are those of the data of the run): 'base' is symmetric, 'asym1' needs B_ASYM = 1.5 (documented default, also exported by verify.sh)
+os.environ['B_ASYM']='0' if tag=='base' else os.environ.get('B_ASYM','1.5')
+import bcr
 def L(h,e): d=np.load('%s/h%s_%s.npz'%(tag,h,e)); return d['t'],d['phi']
 def D(h,hi,lo):
     t,a=L(h,hi); _,b=L(h,lo); e1,e2=float(hi),float(lo); return t,(a/e1-b/e2)/(e1**2-e2**2)

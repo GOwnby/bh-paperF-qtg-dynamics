@@ -1,0 +1,5 @@
+k=0.5   Phi(20)=-5.549805e-01  Phi(1200)=-5.386443e-04  max Phi(v+1)/Phi(v)=0.998740615  at v=1199   strictly decreasing |Phi|: True
+k=1     Phi(20)=-5.163530e-01  Phi(1200)=-3.121251e-05  max Phi(v+1)/Phi(v)=0.998321174  at v=1199   strictly decreasing |Phi|: True
+k=1.5   Phi(20)=-4.573333e-01  Phi(1200)=-1.356547e-06  max Phi(v+1)/Phi(v)=0.997901834  at v=1199   strictly decreasing |Phi|: True
+k=2     Phi(20)=-4.260071e-01  Phi(1200)=-5.240914e-08  max Phi(v+1)/Phi(v)=0.997482593  at v=1199   strictly decreasing |Phi|: True
+k=3     Phi(20)=-4.038909e-01  Phi(1200)=-6.601197e-11  max Phi(v+1)/Phi(v)=0.996644395  at v=1199   strictly decreasing |Phi|: True

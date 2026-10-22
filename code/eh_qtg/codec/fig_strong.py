@@ -33,4 +33,4 @@ for nm,m0,mf,Fh,Fm in pts:
 ax[2].plot([0.3,1.02],[0.3,1.02],color=C3,lw=0.8,ls=':'); ax[2].set_xlabel(r'$1-Q_{\rm abs}/Q_0$ (horizon charge)'); ax[2].set_ylabel(r'$B/(8m_f|Q_0|)$ (measured)')
 ax[2].set_title('(c) measured against horizon charge',fontsize=9,loc='left')
 ax[2].plot([],[],'o',color=C1,label='Hayward'); ax[2].plot([],[],'s',mfc='none',color=C2,label='Einstein'); ax[2].plot([],[],'^',color=C3,label='other widths'); ax[2].legend(frameon=False,loc='lower right',fontsize=7.5)
-fig.tight_layout(); fig.savefig('fig_strong.png',dpi=200); print('saved',len(rows))
+fig.tight_layout(); fig.savefig(os.path.join(os.environ.get('FIG_OUT','.'),'fig_strong.png'),dpi=200); print('saved',len(rows))

@@ -1,4 +1,4 @@
-/tmp/claude-0/-home-claude/717c308b-4c66-5933-99e1-d42d1016a975/scratchpad/stage/code/eh_qtg/codec/fit1.py:7: RuntimeWarning: invalid value encountered in log
+code/eh_qtg/codec/fit1.py:7: RuntimeWarning: invalid value encountered in log
   f=lambda p:(np.log(np.abs(y))-(np.log(p[0])-p[2]*np.log(x-p[1])))
 model 0 m= 3.0 A=0.03003 B=5.4451 B/m^3=0.2017 (vs-v1e)/m=4.575 free k=3.0101
 model 0 m= 5.0 A=0.03003 B=25.2068 B/m^3=0.2017 (vs-v1e)/m=4.572 free k=3.0101

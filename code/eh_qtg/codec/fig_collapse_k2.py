@@ -28,4 +28,4 @@ for f,col,lab in fn:
 d,v,A=load(fn[0][0],2); mm=(v>700)&(v<1440); c.plot(v[mm],-v[mm]*A['sV'][mm],color=C3,label=r'$-v\sigma_v$ ($b=1$)')
 c.axhline(6,color='k',lw=0.6,ls=':'); c.text(1430,6.08,r'$4k-2=2k+2=6$',ha='right',fontsize=8)
 c.set_ylim(3.5,6.6); c.set_xlabel(r'$v$'); c.legend(frameon=False,loc='lower right',fontsize=7.5); c.set_title(r'(c) code E, $k=2$ (dashed: + two $1/v$ terms)',fontsize=9,loc='left')
-plt.tight_layout(); plt.savefig('fig_collapse_k2.png',dpi=200); print('ok')
+plt.tight_layout(); plt.savefig(os.path.join(os.environ.get('FIG_OUT','.'),'fig_collapse_k2.png'),dpi=200); print('ok')

@@ -1,8 +1,8 @@
 Traceback (most recent call last):
-  File "/tmp/claude-0/-home-claude/717c308b-4c66-5933-99e1-d42d1016a975/scratchpad/k2/code/eh_qtg/codec/strong_table.py", line 5, in <module>
+  File "code/eh_qtg/codec/strong_table.py", line 5, in <module>
     t0=time.time(); d=make_table_h(model,m0,mt,h0,hL*max(1.0,mt/5.0),vrel)
                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/tmp/claude-0/-home-claude/717c308b-4c66-5933-99e1-d42d1016a975/scratchpad/k2/code/eh_qtg/codec/strong.py", line 47, in make_table_h
+  File "code/eh_qtg/codec/strong.py", line 47, in make_table_h
     rr=Rk[sel][::-1]; csp=CubicSpline(rr,(Rk*phi)[sel][::-1])
                           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
   File "/usr/local/lib/python3.13/dist-packages/scipy/interpolate/_cubic.py", line 797, in __init__

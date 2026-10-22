@@ -1,0 +1,80 @@
+seed 0
+--- reduced (4D invariants vs warped-product formulas of 2602.16773)
+R        4D=+0.30798867  pred=+0.30798867  diff=7.3e-11
+IC2      4D=+0.49233843  pred=+0.49233843  diff=1.3e-11
+IC3      4D=+0.09972521  pred=+0.09972521  diff=4.0e-12
+IRh2     4D=+0.17912342  pred=+0.17912342  diff=7.9e-12
+IRh3     4D=+0.00001089  pred=+0.00001089  diff=1.3e-12
+IR2C     4D=-0.07257482  pred=-0.07257482  diff=9.7e-13
+   (alt index order IR2C =-0.07257482)
+--- lifts (Eqs. 55,63,64,65) vs 2D scalars
+H=eta    4D=+0.15122275  pred=+0.15122275  diff=1.5e-11
+T=tau    4D=+0.01142987  pred=+0.01142987  diff=1.7e-12
+P=psi    4D=+0.43984492  pred=+0.43984492  diff=5.7e-12
+K=calR   4D=+0.03318983  pred=+0.03318983  diff=2.1e-12
+K, I_C3^1 (control, must fail) 4D=-25467.20781457  pred=+0.03318983  diff=2.5e+04
+GR dens. 4D=+0.30798867  pred=+0.30798867  diff=2.5e-13
+seed 1
+--- reduced (4D invariants vs warped-product formulas of 2602.16773)
+R        4D=+0.89091581  pred=+0.89091581  diff=8.1e-11
+IC2      4D=+0.19385163  pred=+0.19385163  diff=4.3e-11
+IC3      4D=+0.02463846  pred=+0.02463846  diff=8.2e-12
+IRh2     4D=+0.16050422  pred=+0.16050422  diff=7.9e-12
+IRh3     4D=+0.00140157  pred=+0.00140157  diff=2.4e-12
+IR2C     4D=-0.04168299  pred=-0.04168299  diff=8.1e-12
+   (alt index order IR2C =-0.04168299)
+--- lifts (Eqs. 55,63,64,65) vs 2D scalars
+H=eta    4D=-0.02138639  pred=-0.02138639  diff=2.8e-11
+T=tau    4D=-0.00035022  pred=-0.00035022  diff=1.6e-12
+P=psi    4D=+0.40309727  pred=+0.40309727  diff=1.5e-11
+K=calR   4D=-0.00082430  pred=-0.00082430  diff=1.5e-15
+K, I_C3^1 (control, must fail) 4D=-464.99813812  pred=-0.00082430  diff=4.6e+02
+GR dens. 4D=+0.89091581  pred=+0.89091581  diff=1.7e-15
+seed 2
+--- reduced (4D invariants vs warped-product formulas of 2602.16773)
+R        4D=+0.26489579  pred=+0.26489579  diff=3.2e-11
+IC2      4D=+0.17697008  pred=+0.17697008  diff=7.4e-12
+IC3      4D=+0.02149113  pred=+0.02149113  diff=1.3e-12
+IRh2     4D=+0.23018811  pred=+0.23018811  diff=1.6e-11
+IRh3     4D=-0.00134652  pred=-0.00134652  diff=1.1e-11
+IR2C     4D=-0.05522332  pred=-0.05522332  diff=3.0e-12
+   (alt index order IR2C =-0.05522332)
+--- lifts (Eqs. 55,63,64,65) vs 2D scalars
+H=eta    4D=+0.07729001  pred=+0.07729001  diff=7.8e-12
+T=tau    4D=+0.00345655  pred=+0.00345655  diff=3.3e-12
+P=psi    4D=+0.38242262  pred=+0.38242262  diff=1.7e-13
+K=calR   4D=-0.19078940  pred=-0.19078940  diff=2.1e-14
+K, I_C3^1 (control, must fail) 4D=+903.09627171  pred=-0.19078940  diff=9.0e+02
+GR dens. 4D=+0.26489579  pred=+0.26489579  diff=5.8e-15
+seed 3
+--- reduced (4D invariants vs warped-product formulas of 2602.16773)
+R        4D=+3.69194693  pred=+3.69194693  diff=6.3e-11
+IC2      4D=+0.00018367  pred=+0.00018367  diff=9.4e-13
+IC3      4D=-0.00000072  pred=-0.00000072  diff=5.5e-15
+IRh2     4D=+0.07036251  pred=+0.07036251  diff=2.4e-11
+IRh3     4D=+0.01053807  pred=+0.01053807  diff=7.8e-12
+IR2C     4D=+0.00082043  pred=+0.00082043  diff=2.1e-12
+   (alt index order IR2C =+0.00082043)
+--- lifts (Eqs. 55,63,64,65) vs 2D scalars
+H=eta    4D=-0.61923680  pred=-0.61923680  diff=2.0e-11
+T=tau    4D=+0.18597881  pred=+0.18597881  diff=8.2e-12
+P=psi    4D=+0.45652075  pred=+0.45652075  diff=9.5e-12
+K=calR   4D=+0.30195821  pred=+0.30195821  diff=1.6e-13
+K, I_C3^1 (control, must fail) 4D=-22213.96683767  pred=+0.30195821  diff=2.2e+04
+GR dens. 4D=+3.69194693  pred=+3.69194693  diff=0.0e+00
+seed 4
+--- reduced (4D invariants vs warped-product formulas of 2602.16773)
+R        4D=+0.96177857  pred=+0.96177857  diff=6.3e-11
+IC2      4D=+0.48887777  pred=+0.48887777  diff=6.0e-11
+IC3      4D=+0.09867561  pred=+0.09867561  diff=1.8e-11
+IRh2     4D=+0.15104876  pred=+0.15104876  diff=2.3e-11
+IRh3     4D=+0.00717660  pred=+0.00717660  diff=2.1e-11
+IR2C     4D=-0.06815353  pred=-0.06815353  diff=1.6e-11
+   (alt index order IR2C =-0.06815353)
+--- lifts (Eqs. 55,63,64,65) vs 2D scalars
+H=eta    4D=+0.04154463  pred=+0.04154463  diff=2.3e-11
+T=tau    4D=-0.00210051  pred=-0.00210051  diff=7.7e-12
+P=psi    4D=+0.48379532  pred=+0.48379532  diff=1.4e-11
+K=calR   4D=+0.16036647  pred=+0.16036647  diff=5.8e-16
+K, I_C3^1 (control, must fail) 4D=-31.16338099  pred=+0.16036647  diff=3.1e+01
+GR dens. 4D=+0.96177857  pred=+0.96177857  diff=3.3e-16

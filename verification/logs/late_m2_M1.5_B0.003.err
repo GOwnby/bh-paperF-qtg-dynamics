@@ -1,0 +1,2 @@
+code/qtg_lib.py:22: RuntimeWarning: invalid value encountered in sqrt
+  s=np.sqrt(1-L2*psi**2); return psi/s, 1/s**3

@@ -13,7 +13,7 @@ Sig=psi/2-c2-8*np.pi*c1*g+64*np.pi**2*c3*g**2; H=128*np.pi**2*c1**2*g**2+Q**2/2
 K=(4*Sig)**2+8*H+4*psi**2; z=1-psi
 np.save('kst_%s.npy'%os.path.basename(sys.argv[1]).replace('.json',''),np.array([v,r,sg,y,rho,psi,z,g,Sig,K,PV,Ps,sV]))
 print('v   z   W   K   dlnK/dlnv  (finite-difference over +-10)   Sigma-term share   sig_v(=sV)  -(2k+2)/v')
-for vv in list(range(100,361,20)):
+for vv in list(range(100,381,20)):
     i=int(np.argmin(abs(v-vv))); a=i-10; b=i+10
     if b>=len(v) or not np.isfinite(K[b]): break
     lk=(np.log(K[b])-np.log(K[a]))/(np.log(v[b])-np.log(v[a]))

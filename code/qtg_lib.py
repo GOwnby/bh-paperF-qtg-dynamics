@@ -2,7 +2,7 @@
 import numpy as np, ctypes, os, sys
 from scipy.integrate import solve_ivp
 _here=os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0,os.path.join(_here,'..','..','paperE_inner_horizon','code','nonlinear'))   # Bg class (static Hayward interior) from Paper E
+sys.path.insert(0,os.path.join(_here,'vendor_E'))   # Bg class (static Hayward interior): copy of Paper E's dn2lib.py, see vendor_E/README.md
 from dn2lib import Bg, dfr, fr as fstat      # background class (static Hayward interior, relative precision near r_-)
 from qtg_bg2 import Bg2
 def bgdf(bg,r): return bg.df(r) if hasattr(bg,'df') else dfr(bg,r)

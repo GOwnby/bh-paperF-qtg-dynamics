@@ -31,4 +31,4 @@ for B,c in (('0.0003',cols[0]),('0.003',cols[1]),('0.03',cols[2])):
     rows=[l.split() for l in open(os.path.join(L,'kernel_ratio_B%s.log'%B)).read().strip().split('\n')[2:]]
     v=np.array([float(r[0]) for r in rows]); ratio=np.array([float(r[3]) for r in rows]); ax[1,1].plot(v,ratio-1,'o-',color=c,ms=3,label='$B=%s$'%B)
 ax[1,1].set_xlabel('$v$'); ax[1,1].set_ylabel(r'$\phi_v/\phi_v^{\rm kernel}-1$ on $U\simeq1$'); ax[1,1].legend(fontsize=8); ax[1,1].set_title('(d) flux against the linear kernel of Paper G')
-plt.tight_layout(); fn=os.path.join(here,'..','..','fig_eh'); plt.savefig(fn+'.pdf'); plt.savefig(fn+'.png',dpi=150); print('ok')
+plt.tight_layout(); fn=os.path.join(os.environ.get('FIG_OUT') or os.path.join(here,'..','..'),'fig_eh'); plt.savefig(fn+'.pdf'); plt.savefig(fn+'.png',dpi=150); print('ok')

@@ -1,6 +1,6 @@
-"""Table of sigma_v (PDE, h_s=0.05) against the kernel prediction G for k = 1/2, 3/2, 3 (B=3e-3) and B=3e-4, 3e-2 at k=3/2, from endpoint_*.log.  usage: ktable.py"""
+"""Table of sigma_v (PDE, h_s=0.05) against the kernel prediction G for k = 1/2, 3/2, 3 (B=3e-3) and B=3e-4, 3e-2 at k=3/2, from endpoint_*.log (for k=3/2, B=3e-3 the merged file of eight levels, endpoint_B0.003_merged.log, which reaches v=290).  usage: ktable.py"""
 import re
-logs=[('k=0.5, B=3e-3','endpoint_k0.5.log'),('k=1.5, B=3e-4','endpoint_B0.0003.log'),('k=1.5, B=3e-3','endpoint_B0.003.log'),('k=1.5, B=3e-2','endpoint_B0.03.log'),('k=3, B=3e-3','endpoint_k3.log')]
+logs=[('k=0.5, B=3e-3','endpoint_k0.5.log'),('k=1.5, B=3e-4','endpoint_B0.0003.log'),('k=1.5, B=3e-3','endpoint_B0.003_merged.log'),('k=1.5, B=3e-2','endpoint_B0.03.log'),('k=3, B=3e-3','endpoint_k3.log')]
 rows={}
 for name,fn in logs:
     try: L=open(fn).read().splitlines()

@@ -1,0 +1,26 @@
+tail_m0_v60_h05.npz A        max |new - shipped| / max|shipped| = 0.00e+00
+tail_m0_v60_h05.npz g        max |new - shipped| / max|shipped| = 1.39e-13
+tail_m0_v60_h05.npz kp       max |new - shipped| / max|shipped| = 0.00e+00
+tail_m0_v60_h05.npz mass     max |new - shipped| / max|shipped| = 0.00e+00
+tail_m0_v60_h05.npz mf       max |new - shipped| / max|shipped| = 3.02e-15
+tail_m0_v60_h05.npz model    max |new - shipped| / max|shipped| = 0.00e+00
+tail_m0_v60_h05.npz phiH     max |new - shipped| / max|shipped| = 1.53e-12
+tail_m0_v60_h05.npz rg       max |new - shipped| / max|shipped| = 6.99e-14
+tail_m0_v60_h05.npz rp       max |new - shipped| / max|shipped| = 0.00e+00
+tail_m0_v60_h05.npz t        max |new - shipped| / max|shipped| = 0.00e+00
+tail_m0_v60_h05.npz v1e      max |new - shipped| / max|shipped| = 0.00e+00
+tail_m0_v60_h05.npz x0       max |new - shipped| / max|shipped| = 0.00e+00
+tail_m0_v60_h05.npz arrays only in the regenerated table: ['b']; only in the shipped table: []
+tail_m1_v60_h05.npz A        max |new - shipped| / max|shipped| = 0.00e+00
+tail_m1_v60_h05.npz g        max |new - shipped| / max|shipped| = 1.76e-13
+tail_m1_v60_h05.npz kp       max |new - shipped| / max|shipped| = 0.00e+00
+tail_m1_v60_h05.npz mass     max |new - shipped| / max|shipped| = 0.00e+00
+tail_m1_v60_h05.npz mf       max |new - shipped| / max|shipped| = 1.78e-15
+tail_m1_v60_h05.npz model    max |new - shipped| / max|shipped| = 0.00e+00
+tail_m1_v60_h05.npz phiH     max |new - shipped| / max|shipped| = 2.71e-12
+tail_m1_v60_h05.npz rg       max |new - shipped| / max|shipped| = 7.82e-14
+tail_m1_v60_h05.npz rp       max |new - shipped| / max|shipped| = 0.00e+00
+tail_m1_v60_h05.npz t        max |new - shipped| / max|shipped| = 0.00e+00
+tail_m1_v60_h05.npz v1e      max |new - shipped| / max|shipped| = 5.06e-16
+tail_m1_v60_h05.npz x0       max |new - shipped| / max|shipped| = 5.06e-16
+tail_m1_v60_h05.npz arrays only in the regenerated table: ['b']; only in the shipped table: []

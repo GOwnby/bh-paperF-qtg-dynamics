@@ -10,7 +10,7 @@ here=os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0,os.path.join(
 from dnU_qtg import *
 from scipy.interpolate import CubicSpline
 dp=ctypes.POINTER(ctypes.c_double); ip=ctypes.POINTER(ctypes.c_int)
-lib=ctypes.CDLL(os.path.join(here,'libqtge.so'))
+lib=ctypes.CDLL(os.path.join(here,'..','codee','libqtge.so'))    # built by setup.sh
 lib.evolve_E.argtypes=[ctypes.c_int,ctypes.c_int,ctypes.c_double,ctypes.c_double,ctypes.c_int,ctypes.c_double,dp,dp,ctypes.c_int,ctypes.c_int,ip,dp]
 def run_E(model,L2,row0,col,hs,hv,cols):
     nu=row0.shape[1]; ncolt=col.shape[1]; nv=(ncolt-1)//2+1

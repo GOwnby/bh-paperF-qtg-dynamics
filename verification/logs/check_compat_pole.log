@@ -1,0 +1,6 @@
+z range            max rel defect of sigma_uv   [W in 1e-30..1e-5, g in 1e3..1e12, r in 1.04..1.07; 2000 states per range; 80-digit arithmetic]
+ 1e-2..1e-1      1.50e-52
+ 1e-3..1e-2      2.96e-50
+ 1e-4..1e-3      1.04e-50
+ 1e-5..1e-4      7.11e-50
+ 1e-6..1e-5      1.41e-50

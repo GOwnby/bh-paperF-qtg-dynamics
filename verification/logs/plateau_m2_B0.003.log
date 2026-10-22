@@ -1,0 +1,5 @@
+B=0.003  -kappa_-(m_f)=-0.7970157
+ U=0.300  n=32  median -0.7970139  spread 4.6e-03  median+kappa +1.8e-06
+ U=0.600  n=24  median -0.7970101  spread 4.8e-03  median+kappa +5.5e-06
+ U=0.997  n=18  median -0.7969745  spread 4.8e-03  median+kappa +4.1e-05
+ U=1.200  n=17  median -0.7969466  spread 6.1e-03  median+kappa +6.9e-05

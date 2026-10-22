@@ -1,0 +1,37 @@
+model 2 L2=1 B=0.03 k=1.5; grids [0.05, 0.025, 0.0125, 0.00625]
+--- ray U=0.300   (columns: v, r, 1-psi (or wall gap), m, sigma_v, y, phi_v, g, Sigma, K, rel.diff(Sigma) top2 levels)
+   40 1.031831 5.807e-02 1.5407e+00 -0.75994 6.807e+05 -3.452e-05 1.532e+04 5.329e+09 4.544e+20 1.0e-04
+   50 1.031831 1.038e-02 3.7827e+00 -0.19144 7.056e+07 -1.540e-05 7.086e+05 4.015e+11 2.579e+24 6.2e-03
+   60 nan nan nan +nan nan +nan nan nan nan nan
+   70 nan nan nan +nan nan +nan nan nan nan nan
+   80 nan nan nan +nan nan +nan nan nan nan nan
+   90 nan nan nan +nan nan +nan nan nan nan nan
+  100 nan nan nan +nan nan +nan nan nan nan nan
+  108 nan nan nan +nan nan +nan nan nan nan nan
+--- ray U=0.600   (columns: v, r, 1-psi (or wall gap), m, sigma_v, y, phi_v, g, Sigma, K, rel.diff(Sigma) top2 levels)
+   40 1.031769 1.529e-02 3.1042e+00 -0.27766 1.159e+07 -3.452e-05 1.091e+05 2.046e+10 6.701e+21 9.1e-05
+   50 1.031769 2.513e-03 7.7321e+00 -0.14915 8.159e+07 -1.540e-05 3.427e+05 5.593e+09 5.005e+20 4.2e-02
+   60 nan nan nan +nan nan +nan nan nan nan nan
+   70 nan nan nan +nan nan +nan nan nan nan nan
+   80 nan nan nan +nan nan +nan nan nan nan nan
+   90 nan nan nan +nan nan +nan nan nan nan nan
+  100 nan nan nan +nan nan +nan nan nan nan nan
+  108 nan nan nan +nan nan +nan nan nan nan nan
+--- ray U=0.997   (columns: v, r, 1-psi (or wall gap), m, sigma_v, y, phi_v, g, Sigma, K, rel.diff(Sigma) top2 levels)
+   40 1.031564 4.586e-03 5.7112e+00 -0.21211 1.433e+07 -3.453e-05 6.572e+04 6.822e+08 7.446e+18 1.2e-05
+   50 1.031564 1.320e-03 1.0673e+01 -0.14558 8.326e+07 -1.540e-05 1.704e+05 3.821e+08 2.336e+18 8.4e-02
+   60 nan nan nan +nan nan +nan nan nan nan nan
+   70 nan nan nan +nan nan +nan nan nan nan nan
+   80 nan nan nan +nan nan +nan nan nan nan nan
+   90 nan nan nan +nan nan +nan nan nan nan nan
+  100 nan nan nan +nan nan +nan nan nan nan nan
+  108 nan nan nan +nan nan +nan nan nan nan nan
+--- ray U=1.200   (columns: v, r, 1-psi (or wall gap), m, sigma_v, y, phi_v, g, Sigma, K, rel.diff(Sigma) top2 levels)
+   40 1.031449 3.710e-03 6.3520e+00 -0.20856 1.455e+07 -3.454e-05 5.264e+04 2.870e+08 1.318e+18 4.6e-05
+   50 1.031449 1.167e-03 1.1345e+01 -0.14521 8.348e+07 -1.541e-05 1.347e+05 1.870e+08 5.594e+17 9.6e-02
+   60 nan nan nan +nan nan +nan nan nan nan nan
+   70 nan nan nan +nan nan +nan nan nan nan nan
+   80 nan nan nan +nan nan +nan nan nan nan nan
+   90 nan nan nan +nan nan +nan nan nan nan nan
+  100 nan nan nan +nan nan +nan nan nan nan nan
+  108 nan nan nan +nan nan +nan nan nan nan nan

@@ -1,4 +1,4 @@
-model 1 m0=5 mt=5.01 mf=5.01000 : E_row=5.4299e-07  E_H=3.0916e-07  E_scri=E_row-E_H=2.3383e-07  (E_row/mf=1.084e-07, E_scri/mf=4.667e-08, E_scri/E_row=0.431)
+model 1 m0=5 mt=5.01 mf=5.01000 : E_row=5.4299e-07  E_H=3.0916e-07  E_scri=E_row-E_H=2.3382e-07  (E_row/mf=1.084e-07, E_scri/mf=4.667e-08, E_scri/E_row=0.431)
 model 1 m0=5 mt=5.5 mf=5.50000 : E_row=2.5735e-05  E_H=1.4683e-05  E_scri=E_row-E_H=1.1052e-05  (E_row/mf=4.679e-06, E_scri/mf=2.010e-06, E_scri/E_row=0.429)
 model 1 m0=5 mt=6.5 mf=6.50000 : E_row=7.0166e-05  E_H=4.0164e-05  E_scri=E_row-E_H=3.0002e-05  (E_row/mf=1.079e-05, E_scri/mf=4.616e-06, E_scri/E_row=0.428)
 model 1 m0=5 mt=8 mf=8.00000 : E_row=1.2503e-04  E_H=7.1814e-05  E_scri=E_row-E_H=5.3213e-05  (E_row/mf=1.563e-05, E_scri/mf=6.652e-06, E_scri/E_row=0.426)

@@ -1,0 +1,8 @@
+code/eh_qtg/codec/bcr/tailfit.py:17: RuntimeWarning: invalid value encountered in divide
+  rel=(D1/Da-1)                                       # eps shift between pairs (ratio of pair values), h=0.1
+code/eh_qtg/codec/bcr/tailfit.py:19: RuntimeWarning: invalid value encountered in divide
+  D0fac=1+(D1-Da)/D1*0.0004/(0.0016-0.0004)
+code/eh_qtg/codec/bcr/tailfit.py:17: RuntimeWarning: invalid value encountered in divide
+  rel=(D1/Da-1)                                       # eps shift between pairs (ratio of pair values), h=0.1
+code/eh_qtg/codec/bcr/tailfit.py:19: RuntimeWarning: invalid value encountered in divide
+  D0fac=1+(D1-Da)/D1*0.0004/(0.0016-0.0004)

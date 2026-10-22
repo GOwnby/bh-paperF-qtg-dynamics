@@ -1,19 +1,19 @@
-h=0.2 nu=471 0s
-h=0.1 nu=940 1s
-h=0.05 nu=1879 2s
-h=0.025 nu=3757 10s
+h=0.2 nu=471 3s
+h=0.1 nu=940 8s
+h=0.05 nu=1879 27s
+h=0.025 nu=3757 110s
 r (errors for h= [0.2, 0.1, 0.05, 0.025] ; max over the 4 rays at v=40,60,80,98; observed order from last two)
-  v=40: 2.02e-02 7.52e-07 4.68e-08 2.92e-09  order(last)=4.00
-  v=60: 2.63e-04 8.01e-07 5.00e-08 3.12e-09  order(last)=4.00
-  v=80: 1.34e-05 8.34e-07 5.20e-08 3.24e-09  order(last)=4.00
-  v=98: 1.34e-05 8.34e-07 5.20e-08 3.24e-09  order(last)=4.00
+  v=40: 2.02e-02 9.48e-07 5.94e-08 3.72e-09  order(last)=4.00
+  v=60: 2.67e-04 1.04e-06 6.51e-08 4.07e-09  order(last)=4.00
+  v=80: 1.74e-05 1.10e-06 6.86e-08 4.30e-09  order(last)=4.00
+  v=98: 1.74e-05 1.10e-06 6.86e-08 4.30e-09  order(last)=4.00
 sigma_v (errors for h= [0.2, 0.1, 0.05, 0.025] ; max over the 4 rays at v=40,60,80,98; observed order from last two)
-  v=40: 4.15e-04 5.97e-07 3.72e-08 2.32e-09  order(last)=4.00
-  v=60: 4.47e-05 7.94e-07 4.96e-08 3.09e-09  order(last)=4.00
-  v=80: 2.57e-05 1.63e-06 1.02e-07 6.36e-09  order(last)=4.00
-  v=98: 9.57e-05 6.15e-06 3.87e-07 2.42e-08  order(last)=4.00
+  v=40: 4.15e-04 1.89e-06 1.19e-07 7.43e-09  order(last)=4.00
+  v=60: 6.88e-05 2.35e-06 1.47e-07 9.22e-09  order(last)=4.00
+  v=80: 6.80e-05 4.29e-06 2.69e-07 1.68e-08  order(last)=4.00
+  v=98: 2.35e-04 1.49e-05 9.36e-07 5.86e-08  order(last)=4.00
 psi (errors for h= [0.2, 0.1, 0.05, 0.025] ; max over the 4 rays at v=40,60,80,98; observed order from last two)
-  v=40: 2.22e-04 2.04e-07 1.27e-08 7.91e-10  order(last)=4.00
-  v=60: 7.10e-05 2.18e-07 1.36e-08 8.47e-10  order(last)=4.00
-  v=80: 3.65e-06 2.26e-07 1.41e-08 8.77e-10  order(last)=4.00
-  v=98: 3.65e-06 2.26e-07 1.41e-08 8.77e-10  order(last)=4.00
+  v=40: 2.22e-04 1.61e-06 1.01e-07 6.30e-09  order(last)=4.00
+  v=60: 9.63e-05 1.81e-06 1.14e-07 7.11e-09  order(last)=4.00
+  v=80: 2.94e-05 1.85e-06 1.16e-07 7.26e-09  order(last)=4.00
+  v=98: 2.94e-05 1.85e-06 1.16e-07 7.26e-09  order(last)=4.00

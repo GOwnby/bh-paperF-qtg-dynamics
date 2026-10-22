@@ -1,0 +1,7 @@
+# Python packages for verify.sh and the code in code/ (Paper F).  Python >= 3.10.
+# Also needed: a C compiler (gcc) and, for code/eh_qtg/codec/restore_archive.sh, xz.  LaTeX only to rebuild the PDF.
+numpy>=2.0
+scipy>=1.11
+sympy>=1.12
+mpmath>=1.3
+matplotlib>=3.6

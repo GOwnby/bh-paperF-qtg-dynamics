@@ -1,5 +1,5 @@
 import sys, json, numpy as np
-sys.path.insert(0,'/mnt/user-data/outputs/consolidated/paperF_qtg_dynamics/code')
+import os; sys.path.insert(0,os.environ.get('QTG_CODE',os.path.join(os.path.dirname(os.path.abspath(__file__)),'..')))
 from qtg_lib import coef
 fn=sys.argv[1]; Kl=int(sys.argv[2]) if len(sys.argv)>2 else 4
 d=json.load(open(fn)); v=np.array(d['vq']); hl=sorted((float(h) for h in d['data']),reverse=True)

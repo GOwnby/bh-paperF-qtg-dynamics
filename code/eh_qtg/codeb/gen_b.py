@@ -5,7 +5,7 @@ sys.path.insert(0,'..')
 from dnU_qtg import *
 from static_gen import StaticGen, bounded
 dp=ctypes.POINTER(ctypes.c_double); ip=ctypes.POINTER(ctypes.c_int)
-lib=ctypes.CDLL(os.path.abspath('libqtgb.so'))
+lib=ctypes.CDLL(os.path.join(os.path.dirname(os.path.abspath(__file__)),'libqtgb.so'))
 lib.evolve_B.argtypes=[ctypes.c_int,ctypes.c_int,ctypes.c_double,ctypes.c_double,ctypes.c_int,ctypes.c_double,dp,dp,ctypes.c_int,ctypes.c_int,ip,dp,ctypes.c_int,ctypes.c_int,dp]
 def run_B(model,L2,row0,col,hs,hv,cols,proj=1):
     nu=row0.shape[1]; ncolt=col.shape[1]; nv=(ncolt-1)//2+1

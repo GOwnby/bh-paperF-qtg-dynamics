@@ -13,8 +13,9 @@ d=build_eh_q(S,1,1.0,1.5,v1,h,h,B,k=1.5,c=c,vH=v1+300); cols=[int(round(s/h)) fo
 src=open(os.path.join(code,'qtg_dn.c')).read(); assert '*c3=2*L2*z*z*z;' in src
 dp=ctypes.POINTER(ctypes.c_double)
 res={}
+import tempfile; tmpd=tempfile.mkdtemp(prefix='qtg_c3_')   # scratch directory for the modified C sources/libraries
 for fac in facs:
-    f='/tmp/qtg_c3_%g.c'%fac; open(f,'w').write(src.replace('*c3=2*L2*z*z*z;','*c3=%r*2*L2*z*z*z;'%fac)); so='/tmp/libqtg_c3_%g.so'%fac
+    f=os.path.join(tmpd,'qtg_c3_%g.c'%fac); open(f,'w').write(src.replace('*c3=2*L2*z*z*z;','*c3=%r*2*L2*z*z*z;'%fac)); so=os.path.join(tmpd,'libqtg_c3_%g.so'%fac)
     subprocess.check_call(['gcc','-O3','-shared','-fPIC','-o',so,f,'-lm'])
     lib2=ctypes.CDLL(so); lib2.evolve_stream_qtg_cy.argtypes=qtg_lib.lib.evolve_stream_qtg_cy.argtypes; qtg_lib.lib=lib2
     for mode in (2,3):

@@ -1,0 +1,17 @@
+genq2_hs0.05_m1_B0.003_k1.5_v400.json B=0.003
+   h_v=0.05       first non-finite sample: 206   law: 205.2
+   h_v=0.025      first non-finite sample: 234   law: 233.6
+   h_v=0.0125     first non-finite sample: 262   law: 261.9
+   h_v=0.00625    first non-finite sample: 291   law: 290.2
+   h_v=0.003125   first non-finite sample: 319   law: 318.5
+   h_v=0.0015625  first non-finite sample: 347   law: 346.8
+genq2_hs0.05_m1_B0.03_k1.5_v300.json B=0.03
+   h_v=0.0125     first non-finite sample: 169   law: 167.8
+   h_v=0.00625    first non-finite sample: 197   law: 196.1
+   h_v=0.003125   first non-finite sample: 225   law: 224.4
+   h_v=0.0015625  first non-finite sample: 254   law: 252.8
+genq2_hs0.05_m1_B0.0003_k1.5_v300.json B=0.0003
+   h_v=0.0125     first non-finite sample: > 298 (none)   law: 355.9
+   h_v=0.00625    first non-finite sample: > 298 (none)   law: 384.2
+   h_v=0.003125   first non-finite sample: > 298 (none)   law: 412.5
+   h_v=0.0015625  first non-finite sample: > 298 (none)   law: 440.8

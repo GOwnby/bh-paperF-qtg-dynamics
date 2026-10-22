@@ -1,7 +1,7 @@
 """Code-level check: the QTG code with model 0 (h=psi, i.e. GR without regulator) must reproduce the Paper-E double-null code with m_N=0 to round-off on arbitrary smooth
-characteristic data (only the evolution equations are compared; the data need not satisfy the constraints).  Run from a directory in which dn2lib.py and libdouble_null.so (code/nonlinear) are importable."""
+characteristic data (only the evolution equations are compared; the data need not satisfy the constraints).  Uses dn2lib.py and libdouble_null.so from vendor_E/ (build with build.sh)."""
 import sys,os,numpy as np
-here=os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0,here); sys.path.insert(0,os.path.join(here,'..','..','paperE_inner_horizon','code','nonlinear')); sys.path.insert(0,os.path.join(here,'..'))
+here=os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0,here); sys.path.insert(0,os.path.join(here,'vendor_E')); sys.path.insert(0,os.path.join(here,'..'))
 import qtg_lib as Q, dn2lib as D
 nu,nv=60,70; hu=hv=0.02
 def mk():

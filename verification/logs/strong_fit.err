@@ -1,0 +1,2 @@
+code/eh_qtg/codec/fit1.py:7: RuntimeWarning: invalid value encountered in log
+  f=lambda p:(np.log(np.abs(y))-(np.log(p[0])-p[2]*np.log(x-p[1])))

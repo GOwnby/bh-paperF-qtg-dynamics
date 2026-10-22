@@ -11,7 +11,7 @@ sp/tc_H_m0_10_c0.02.npz c=0.02  I0=-c m_t=-0.2  m_f(stage N)=9.99924  m_t=10  tm
   window [3200,25400]: a0 = 1.00083  0.99929  1.00000    (c1 | +c2 ln t/t | +c3,c4 at 1/t^2)
   free (B,s,k) window [800,25400]: B/(4|I0|)=1.1951  s=-144.9  k=2.0173
   free (B,s,k) window [1600,25400]: B/(4|I0|)=1.0494  s=-97.4  k=2.0046
-/tmp/claude-0/-home-claude/717c308b-4c66-5933-99e1-d42d1016a975/scratchpad/k2/code/eh_qtg/codec/np_fit.py:16: RuntimeWarning: invalid value encountered in log
+code/eh_qtg/codec/np_fit.py:16: RuntimeWarning: invalid value encountered in log
   r=lambda p:(np.log(p[0])-p[2]*np.log(x-p[1]))-y
   free (B,s,k) window [3200,25400]: B/(4|I0|)=1.0226  s=-85.2  k=2.0021
 sp/tc_H_m0_5_c0.01.npz c=0.01  I0=-c m_t=-0.05  m_f(stage N)=4.99962  m_t=5  tmax=12700

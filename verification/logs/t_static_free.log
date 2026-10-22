@@ -1,0 +1,3 @@
+h=0.2 nu=395 3s  max|dsigma|=nan max|dsigma_v|=nan max|dr|=nan nan 7696
+h=0.1 nu=788 3s  max|dsigma|=nan max|dsigma_v|=nan max|dr|=nan nan 12680
+h=0.05 nu=1575 4s  max|dsigma|=nan max|dsigma_v|=nan max|dr|=nan nan 20408

@@ -1,4 +1,4 @@
-\begin{thebibliography}{31}
+\begin{thebibliography}{35}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -10,149 +10,187 @@
 Yannis Angelopoulos, Stefanos Aretakis, and Dejan Gajic.
 \newblock Late-time asymptotics for the wave equation on spherically symmetric,
   stationary spacetimes.
-\newblock \emph{Adv. Math.}, 323:\penalty0 529, 2018.
+\newblock \emph{Advances in Mathematics}, 323:\penalty0 529--621, 2018.
+\newblock \doi{10.1016/j.aim.2017.10.027}.
 
-\bibitem[Bizo{\'n} et~al.(2008)Bizo{\'n}, Chmaj, and
+\bibitem[Bizo{\'n} et~al.(2009)Bizo{\'n}, Chmaj, and
   Rostworowski]{BizonChmajRostworowski2008}
 Piotr Bizo{\'n}, Tadeusz Chmaj, and Andrzej Rostworowski.
 \newblock Late-time tails of a self-gravitating massless scalar field,
-  revisited, 2008.
+  revisited.
+\newblock \emph{Class. Quantum Grav.}, 26\penalty0 (17):\penalty0 175006, 2009.
+\newblock \doi{10.1088/0264-9381/26/17/175006}.
 
-\bibitem[Bonanno et~al.(2025)Bonanno, Panassiti, and
+\bibitem[Bonanno et~al.(2026)Bonanno, Panassiti, and
   Saueressig]{BonannoPanassitiSaueressig2025}
 Alfio Bonanno, Antonio Panassiti, and Frank Saueressig.
-\newblock Cauchy horizon (in)stability of regular black holes.
-\newblock \emph{arXiv:2507.03581 [gr-qc]}, 2025.
+\newblock Cauchy horizon stability and instability of regular black holes.
+\newblock \emph{Physical Review D}, 114\penalty0 (6):\penalty0 064027, 2026.
+\newblock \doi{10.1103/34w6-s2yl}.
 
 \bibitem[Borissova and Carballo-Rubio(2026)]{BorissovaCarballoRubio2026}
 Johanna Borissova and Ra\'ul Carballo-Rubio.
 \newblock Regular black holes from pure gravity in four dimensions.
-\newblock \emph{arXiv:2602.16773 [gr-qc]}, 2026.
+\newblock \emph{Physical Review D}, 113:\penalty0 124004, 2026.
+\newblock \doi{10.1103/6x2z-qbkh}.
 
 \bibitem[Brady and Smith(1995)]{BradySmith1995}
 Patrick~R. Brady and John~D. Smith.
 \newblock Black hole singularities: A numerical approach.
 \newblock \emph{Physical Review Letters}, 75:\penalty0 1256, 1995.
+\newblock \doi{10.1103/PhysRevLett.75.1256}.
 
-\bibitem[Bueno et~al.(2024{\natexlab{a}})Bueno, Cano, and
+\bibitem[Bueno et~al.(2025{\natexlab{a}})Bueno, Cano, and
   Hennigar]{BuenoCanoHennigar2024}
 Pablo Bueno, Pablo~A. Cano, and Robie~A. Hennigar.
 \newblock Regular black holes from pure gravity.
-\newblock \emph{arXiv:2403.04827 [gr-qc]}, 2024{\natexlab{a}}.
+\newblock \emph{Physics Letters B}, 861:\penalty0 139260, 2025{\natexlab{a}}.
+\newblock \doi{10.1016/j.physletb.2025.139260}.
 
-\bibitem[Bueno et~al.(2024{\natexlab{b}})Bueno, Cano, Hennigar, and
+\bibitem[Bueno et~al.(2025{\natexlab{b}})Bueno, Cano, Hennigar, and
   Murcia]{BuenoCanoHennigarMurcia2024}
 Pablo Bueno, Pablo~A. Cano, Robie~A. Hennigar, and \'Angel~J. Murcia.
 \newblock Dynamical formation of regular black holes.
-\newblock \emph{arXiv:2412.02742 [gr-qc]}, 2024{\natexlab{b}}.
+\newblock \emph{Physical Review Letters}, 134:\penalty0 181401,
+  2025{\natexlab{b}}.
+\newblock \doi{10.1103/PhysRevLett.134.181401}.
 
-\bibitem[Bueno et~al.(2025)Bueno, Cano, Hennigar, and
+\bibitem[Bueno et~al.(2026{\natexlab{a}})Bueno, Cano, Hennigar, and
   Murcia]{BuenoCanoHennigarMurcia2025}
 Pablo Bueno, Pablo~A. Cano, Robie~A. Hennigar, and \'Angel~J. Murcia.
-\newblock Regular black hole formation in four-dimensional non-polynomial
+\newblock Regular black hole formation in four-dimensional nonpolynomial
   gravities.
-\newblock \emph{arXiv:2509.19016 [gr-qc]}, 2025.
+\newblock \emph{Physical Review D}, 113\penalty0 (2):\penalty0 024019,
+  2026{\natexlab{a}}.
+\newblock \doi{10.1103/8f3j-zcxh}.
 
-\bibitem[Bueno et~al.(2026)Bueno, Hennigar, Murcia, and
+\bibitem[Bueno et~al.(2026{\natexlab{b}})Bueno, Hennigar, Murcia, and
   Vicente-Cano]{BuenoHennigarMurciaVicenteCano2026}
 Pablo Bueno, Robie~A. Hennigar, \'Angel~J. Murcia, and Aitor Vicente-Cano.
 \newblock Regular geometries from singular matter in quasi-topological gravity.
-\newblock \emph{arXiv:2603.10110 [gr-qc]}, 2026.
+\newblock \emph{Physical Review D}, 114:\penalty0 024070, 2026{\natexlab{b}}.
+\newblock \doi{10.1103/3mk3-j8vs}.
 
 \bibitem[Burko(1997)]{Burko1997}
 Lior~M. Burko.
-\newblock Structure of the black hole's cauchy-horizon singularity.
-\newblock \emph{Physical Review Letters}, 79:\penalty0 4958, 1997.
+\newblock Structure of the black hole's {C}auchy-horizon singularity.
+\newblock \emph{Physical Review Letters}, 79\penalty0 (25):\penalty0
+  4958--4961, 1997.
+\newblock \doi{10.1103/PhysRevLett.79.4958}.
 
 \bibitem[Burko and Ori(1997)]{BurkoOri1997b}
 Lior~M. Burko and Amos Ori.
 \newblock Late-time evolution of nonlinear gravitational collapse.
-\newblock \emph{Phys. Rev. D}, 56:\penalty0 7820, 1997.
+\newblock \emph{Physical Review D}, 56\penalty0 (12):\penalty0 7820--7832,
+  1997.
+\newblock \doi{10.1103/PhysRevD.56.7820}.
 
 \bibitem[Carballo-Rubio et~al.(2022)Carballo-Rubio, Di~Filippo, Liberati,
   Pacilio, and Visser]{CarballoRubio2022a}
 Ra\'ul Carballo-Rubio, Francesco Di~Filippo, Stefano Liberati, Costantino
   Pacilio, and Matt Visser.
 \newblock Regular black holes without mass inflation instability.
-\newblock \emph{J. High Energy Phys.}, 09:\penalty0 118, 2022.
+\newblock \emph{Journal of High Energy Physics}, 09:\penalty0 118, 2022.
+\newblock \doi{10.1007/JHEP09(2022)118}.
 
 \bibitem[Dafermos(2005)]{Dafermos2005}
 Mihalis Dafermos.
 \newblock The interior of charged black holes and the problem of uniqueness in
   general relativity.
 \newblock \emph{Communications on Pure and Applied Mathematics}, 58:\penalty0
-  445, 2005.
+  445--504, 2005.
+\newblock \doi{10.1002/cpa.20071}.
 
 \bibitem[Di~Filippo et~al.(2026)Di~Filippo, Kubiz\v{n}\'ak, and
   Srinivasan]{DiFilippo2026}
-Francesco Di~Filippo, David Kubiz\v{n}\'ak, and Aditya Srinivasan.
-\newblock Mass inflation and thin shells in quasi-topological gravity.
-\newblock \emph{arXiv:2604.27980 [gr-qc]}, 2026.
+Francesco Di~Filippo, David Kubiz\v{n}\'ak, and Aravindhan Srinivasan.
+\newblock Mass inflation and thin shells in quasitopological gravity.
+\newblock \emph{Physical Review D}, 114:\penalty0 044061, 2026.
+\newblock \doi{10.1103/ddgs-4ggp}.
 
 \bibitem[Diener(2003)]{Diener2003}
 Peter Diener.
-\newblock A new general purpose event horizon finder for 3d numerical
+\newblock A new general purpose event horizon finder for 3{D} numerical
   spacetimes.
-\newblock \emph{Class. Quantum Grav.}, 20:\penalty0 4901, 2003.
+\newblock \emph{Class. Quantum Grav.}, 20:\penalty0 4901--4917, 2003.
+\newblock \doi{10.1088/0264-9381/20/22/014}.
 
 \bibitem[Frolov and Zelnikov(2026)]{FrolovZelnikov2026}
 Valeri~P. Frolov and Andrei Zelnikov.
 \newblock Regular black holes in quasitopological gravity: Null shells and mass
-  inflation, 2026.
-\newblock arXiv:2601.01861 (v2, April 2026).
+  inflation.
+\newblock \emph{Physical Review D}, 113\penalty0 (8):\penalty0 084007, 2026.
+\newblock \doi{10.1103/nrd7-j6hs}.
 
 \bibitem[Gajic and Kehrberger(2025)]{GajicKehrberger2025}
-Dejan Gajic and Leonhard Kehrberger.
+Dejan Gajic and Lionor Kehrberger.
 \newblock Linear and nonlinear late-time tails on dynamical black hole
   spacetimes via time integrals, 2025.
+\newblock arXiv:2511.23242.
 
 \bibitem[Gautam(2024)]{Gautam2024}
 Onyx Gautam.
 \newblock Late-time tails and mass inflation for the spherically symmetric
   {E}instein--{M}axwell--scalar field system, 2024.
+\newblock arXiv:2412.17927.
 
 \bibitem[Gundlach et~al.(1994{\natexlab{a}})Gundlach, Price, and
   Pullin]{GundlachPricePullin1994}
 Carsten Gundlach, Richard~H. Price, and Jorge Pullin.
-\newblock Late-time behavior of stellar collapse and explosions. i. linearized
-  perturbations.
-\newblock \emph{Phys. Rev. D}, 49:\penalty0 883, 1994{\natexlab{a}}.
+\newblock Late-time behavior of stellar collapse and explosions. {II}.
+  {N}onlinear evolution.
+\newblock \emph{Physical Review D}, 49\penalty0 (2):\penalty0 890--899,
+  1994{\natexlab{a}}.
+\newblock \doi{10.1103/PhysRevD.49.890}.
 
 \bibitem[Gundlach et~al.(1994{\natexlab{b}})Gundlach, Price, and
   Pullin]{GundlachPricePullin1994b}
 Carsten Gundlach, Richard~H. Price, and Jorge Pullin.
-\newblock Late-time behavior of stellar collapse and explosions. ii. nonlinear
-  evolution.
+\newblock Late-time behavior of stellar collapse and explosions. {II}.
+  {N}onlinear evolution.
 \newblock \emph{Phys. Rev. D}, 49:\penalty0 890, 1994{\natexlab{b}}.
+\newblock \doi{10.1103/PhysRevD.49.890}.
+
+\bibitem[Hayward(2006)]{Hayward2006}
+Sean~A. Hayward.
+\newblock Formation and evaporation of nonsingular black holes.
+\newblock \emph{Physical Review Letters}, 96:\penalty0 031103, 2006.
+\newblock \doi{10.1103/PhysRevLett.96.031103}.
 
 \bibitem[Hod and Piran(1998)]{HodPiran1998}
 Shahar Hod and Tsvi Piran.
 \newblock Mass inflation in dynamical gravitational collapse of a charged
   scalar field.
 \newblock \emph{Physical Review Letters}, 81:\penalty0 1554, 1998.
+\newblock \doi{10.1103/PhysRevLett.81.1554}.
 
 \bibitem[Iofa(2022)]{Iofa2022}
 Mikhail~Z. Iofa.
 \newblock On the mass function at the inner horizon of a regular black hole.
-\newblock \emph{arXiv:2206.09460 [gr-qc]}, 2022.
+\newblock \emph{Journal of Experimental and Theoretical Physics}, 135:\penalty0
+  647--654, 2022.
+\newblock \doi{10.1134/S1063776122110048}.
 
 \bibitem[Karkowski et~al.(2004)Karkowski, {\'S}wierczy{\'n}ski, and
   Malec]{KarkowskiSwierczynskiMalec2004}
-Janusz Karkowski, Zdzis{\l}aw {\'S}wierczy{\'n}ski, and Edward Malec.
+Janusz Karkowski, Zdobys{\l}aw {\'S}wierczy{\'n}ski, and Edward Malec.
 \newblock Comments on tails in {S}chwarzschild spacetimes.
-\newblock \emph{Class. Quantum Grav.}, 21:\penalty0 1303, 2004.
+\newblock \emph{Class. Quantum Grav.}, 21:\penalty0 1303--1309, 2004.
+\newblock \doi{10.1088/0264-9381/21/6/002}.
 
-\bibitem[Libson et~al.(1996)Libson, Mass\'o, Seidel, Suen, and
+\bibitem[Libson et~al.(1996)Libson, Mass{\'o}, Seidel, Suen, and
   Walker]{Libson1996}
-Joseph Libson, Joan Mass\'o, Edward Seidel, Wai-Mo Suen, and Paul Walker.
+Joseph Libson, Joan Mass{\'o}, Edward Seidel, Wai-Mo Suen, and Paul Walker.
 \newblock Event horizons in numerical relativity: Methods and tests.
-\newblock \emph{Phys. Rev. D}, 53:\penalty0 4335, 1996.
+\newblock \emph{Physical Review D}, 53\penalty0 (8):\penalty0 4335--4350, 1996.
+\newblock \doi{10.1103/PhysRevD.53.4335}.
 
 \bibitem[Marolf and Ori(2012)]{MarolfOri2012}
 Donald Marolf and Amos Ori.
 \newblock Outgoing gravitational shock-wave at the inner horizon: The late-time
   limit of black hole interiors.
 \newblock \emph{Physical Review D}, 86:\penalty0 124026, 2012.
+\newblock \doi{10.1103/PhysRevD.86.124026}.
 
 \bibitem[Ori(1991)]{Ori1991}
 Amos Ori.
@@ -160,6 +198,26 @@ Amos Ori.
   solution.
 \newblock \emph{Physical Review Letters}, 67:\penalty0 789, 1991.
 \newblock \doi{10.1103/PhysRevLett.67.789}.
+
+\bibitem[Ownby(2026{\natexlab{a}})]{PaperE}
+Gracen Ownby.
+\newblock {Inner-Horizon} {Stability} of the {Hayward} {Metric}: {Closure}
+  {Classes} in the {Ori} {Model}, the {Evaporation} {Clock} and a {Nonlinear}
+  {Double-Null} {Test}, 2026{\natexlab{a}}.
+\newblock Zenodo, doi:10.5281/zenodo.23455587.
+
+\bibitem[Ownby(2026{\natexlab{b}})]{PaperG}
+Gracen Ownby.
+\newblock {Late-Time} {Mass} {Inflation} in {Double-Null} {Evolutions}:
+  {Event-Horizon-Regular} {Data}, the {Interior} {Linear} {Response} and
+  {Exact} {Integration} {Along} a {Ray}, 2026{\natexlab{b}}.
+\newblock Zenodo, doi:10.5281/zenodo.23455605.
+
+\bibitem[Poisson and Israel(1989)]{PoissonIsrael1989}
+Eric Poisson and Werner Israel.
+\newblock Inner-horizon instability and mass inflation in black holes.
+\newblock \emph{Physical Review Letters}, 63:\penalty0 1663, 1989.
+\newblock \doi{10.1103/PhysRevLett.63.1663}.
 
 \bibitem[Poisson and Israel(1990)]{PoissonIsrael1990}
 Eric Poisson and Werner Israel.
@@ -169,24 +227,30 @@ Eric Poisson and Werner Israel.
 
 \bibitem[Price(1972)]{Price1972}
 Richard~H. Price.
-\newblock Nonspherical perturbations of relativistic gravitational collapse. i.
-  scalar and gravitational perturbations.
-\newblock \emph{Phys. Rev. D}, 5:\penalty0 2419, 1972.
+\newblock Nonspherical perturbations of relativistic gravitational collapse.
+  {I}. {S}calar and gravitational perturbations.
+\newblock \emph{Physical Review D}, 5\penalty0 (10):\penalty0 2419--2438, 1972.
+\newblock \doi{10.1103/PhysRevD.5.2419}.
 
 \bibitem[Price and Burko(2004)]{PriceBurko2004}
 Richard~H. Price and Lior~M. Burko.
 \newblock Late time tails from momentarily stationary, compact initial data in
   {S}chwarzschild spacetimes.
 \newblock \emph{Phys. Rev. D}, 70:\penalty0 084039, 2004.
+\newblock \doi{10.1103/PhysRevD.70.084039}.
 
 \bibitem[Ripley and Pretorius(2019)]{RipleyPretorius2019}
 Justin~L. Ripley and Frans Pretorius.
 \newblock Hyperbolicity in spherical gravitational collapse in a {H}orndeski
-  theory, 2019.
+  theory.
+\newblock \emph{Phys. Rev. D}, 99:\penalty0 084014, 2019.
+\newblock \doi{10.1103/PhysRevD.99.084014}.
 
-\bibitem[Shao et~al.(2025)Shao, Guo, Tian, and Zhang]{ShaoGuoTianZhang2025}
+\bibitem[Shao et~al.(2026)Shao, Guo, Tian, and Zhang]{ShaoGuoTianZhang2025}
 Caiying Shao, Jun-Qi Guo, Yu~Tian, and Hongbao Zhang.
-\newblock Internal structure of hayward black holes.
-\newblock \emph{arXiv:2511.23165 [gr-qc]}, 2025.
+\newblock Internal structure of {H}ayward black holes.
+\newblock \emph{Physical Review D}, 113\penalty0 (12):\penalty0 124040, 2026.
+\newblock \doi{10.1103/qyyr-df8v}.
+\newblock arXiv:2511.23165.
 
 \end{thebibliography}
